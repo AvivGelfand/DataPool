@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,transaction_amount,merchant_category,customer_id,customer_age,customer_gender,customer_adress,transaction_adress,merchant_name,total_spent_last_week
+1,4/21/2023,122,Grocery,1,74.0,Male,Lae,Solntsevo,Kostco,1430.4592512908907
+2,11/19/2022,971,Grocery,2,33.0,Male,Wulingyuan,Guayaybi,JCPenney,2080.376713269343
+3,6/16/2022,373,Electronics,3,53.0,Male,Jand,Helsingborg,Adydas,1370.8737962024347
+4,3/13/2023,225,Entertainment,4,57.0,Male,Utama Wetan,Quảng Yên,Ebay,1257.019254247948
+5,6/12/2022,671,Home Goods,5,26.0,Female,Derbent,Wenquan,Best Buyy,1916.3350028562675
+6,4/3/2023,237,Home Goods,6,30.0,Male,Dobřív,Polanka Wielka,Ebay,1216.1722868006063
+7,5/27/2022,978,Electronics,7,22.0,Male,Balky,Mlalo,Adydas,1994.816618839158
+8,12/17/2022,937,Electronics,8,33.0,Genderqueer,Caculé,Tangwei,Best Buyy,2062.3261307826424
+9,1/19/2023,895,Electronics,9,82.0,Male,Qiaotou,Raymond,Ebay,1805.562881653202
+10,8/25/2022,763,Clothing,10,88.22101181121866,Female,Cartí Suitupo,,Newegg,1908.3173215974841
+11,7/3/2022,292,Electronics,11,39.0,Male,Fukuchiyama,Vostochnoe Degunino,Seph$ora,1325.6751680664102
+12,12/13/2022,1062,Grocery,12,36.0,Female,Banjar Banyualit,Atyrau,NordstromC,2161.6722248658134
+13,4/1/2023,928,Electronics,13,88.28875527380475,Female,Ratoath,,Etseazy,1929.4523870222672
+14,7/21/2022,16,Electronics,14,46.0,Male,Mamboma,Malysheva,Gav,1032.0666864833647
+15,7/2/2022,892,Home Goods,15,30.0,Male,Krasnotur’insk,Chenjiahe,Ebay,1780.4456326885443
+16,6/16/2022,1131,Home Goods,16,71.0,Polygender,Acao,Tân Kỳ,Wayfa$ir,1990.099295488918
+17,5/27/2022,1034,Clothing,17,34.0,Male,Jintun,Matadi,Ebay,1847.3866412137736
+18,11/17/2022,993,Electronics,18,81.0,Female,Jiangyin,Alcáçovas,Etseazy,1941.832838594343
+19,2/24/2023,1118,Electronics,19,70.0,Male,Uralo-Kavkaz,Issoudun,Overs12tock,2140.9945237078173
+20,9/24/2022,13,Electronics,20,35.0,Female,Nongba,Jiagao,Ebay,918.6218295529784
+21,10/27/2022,932,Clothing,21,72.0,Female,Kosaya Gora,Eha Amufu,NordstromC,2005.4136964149357
+22,8/17/2022,969,Entertainment,22,83.0,Female,Akhmīm,Kérkyra,Seph$ora,1955.3708887707858
+23,5/3/2022,1070,Electronics,23,44.0,Male,Solna,Tignoan,Ebay,2080.249355723314
+24,8/29/2022,33,Home Goods,24,72.0,Male,Casal do Relvas,Orahovac,Ebay,979.7511387506777
+25,1/16/2023,872,Entertainment,25,25.0,Male,Kolomyya,Hafrsfjord,Ebay,2026.0035749507426
+26,7/17/2022,17,Electronics,26,19.0,Male,Pekalongan,Rikitea,Maci's,930.9629795973715
+27,3/21/2023,129,Home Goods,27,72.0,Agender,Longshan,Sestroretsk,Ebay,1174.1189825487725
+28,6/10/2022,1033,Clothing,28,55.0,Female,Buenavista,Labnig,Ebay,2116.7039211908163
+29,1/20/2023,1009,Electronics,29,34.0,Female,Tchintabaraden,Qinggis Han,Wayfa$ir,2060.502431283777
+30,7/23/2022,944,Grocery,30,87.5674787032476,Male,Bor,,Etseazy,1924.6169132996076
+31,4/12/2023,823,Home Goods,31,49.0,Male,Mollebamba,Gunungmalang Satu,Wayfa$ir,1643.8281268763667
+32,2/26/2023,446,Electronics,32,42.0,Male,Köping,Orange,JCPenney,1468.2347388824405
+33,8/27/2022,955,Grocery,33,51.0,Female,Неготино,Ningde,Ebay,1895.9028342259496
+34,1/20/2023,528,Grocery,34,54.0,Bigender,Grigiškės,Pochinki,Newegg,1540.787396724675
+35,4/20/2023,101,Clothing,35,29.0,Female,Kaburon,Pojok,Gav,1079.6223726723663
+36,11/3/2022,1100,Grocery,36,24.0,Male,Vetlanda,Tarnawatka,Ebay,2196.399998674051
+37,2/19/2023,943,Electronics,37,18.0,Male,Gorki Vtoryye,Evxinoúpolis,Target123,1972.715932536542
+38,12/30/2022,993,Electronics,38,82.0,Male,Thung Song,Yeniköy,Ebay,1957.5870450390448
+39,5/18/2022,967,Entertainment,39,28.0,Male,White River,Ambositra,Ebay,1880.0738038055642
+40,4/5/2023,968,Entertainment,40,87.31060710586483,Male,Limoges,,Ebay,1843.304534893991
+41,4/21/2023,955,Home Goods,41,41.0,Polygender,Gueset,كاف الجاع,Newegg,1931.7439090101711
+42,5/18/2022,1041,Grocery,42,58.0,Male,Épinal,Mianhu,JCPenney,1986.8924460077594
+43,7/29/2022,1055,Electronics,43,58.0,Male,Melita,Tešanj,Apple,2033.4878485796112
+44,11/11/2022,28,Entertainment,44,22.0,Male,Kunri,Grängesberg,Ebay,855.851898346014
+45,6/21/2022,882,Home Goods,45,60.0,Male,Mustvee,Laval,Wayfa$ir,1848.410636713123
+46,4/11/2023,0,Entertainment,46,51.0,Male,Tongouson,Bingfang,Apple,983.8895313162593
+47,3/15/2023,212,Entertainment,47,67.0,Male,Sundsvall,Nanhe,Target123,1121.0040613550232
+48,3/26/2023,27,Clothing,48,78.0,Female,Kargowa,Al Khārijah,Ulta ASDBeauty,1032.0151277222412
+49,5/27/2022,7,Home Goods,49,52.0,Bigender,Maimará,Fulu,Gav,1157.5090836261702
+50,8/29/2022,104,Electronics,50,82.0,Male,Donnybrook,Niigata-shi,Hom Dipot,1024.2266635760502
+51,1/4/2023,839,Home Goods,51,88.52349681430707,Female,High River,,Nyke,1736.3795261010957
+52,12/17/2022,992,Grocery,52,20.0,Female,IJmuiden,Dori,Target123,2092.0357111298604
+53,7/11/2022,999,Home Goods,53,28.0,Female,Pandak,Fayaoué,Ebay,1894.4851463453438
+54,4/18/2023,987,Home Goods,54,79.0,Female,Tbilisskaya,Houston,Ebay,1791.7977471292238
+55,4/1/2023,1169,Entertainment,55,49.0,Female,Filiátes,Okinawa Número Uno,Ebay,2305.01611503181
+56,4/6/2023,330,Clothing,56,31.0,Female,Kaa-Khem,Da-an Sur,Ebay,1184.7988767885695
+57,7/16/2022,285,Clothing,57,76.0,Genderfluid,Victoria,Ngujuran,Newegg,1305.794080988934
+58,7/27/2022,940,Clothing,58,64.0,Female,Al Ḩāḑir,Gununganyartambak Tengah,Newegg,1980.770344510189
+59,11/17/2022,156,Entertainment,59,21.0,Male,Trelleborg,Shiḩan as Suflá,NordstromC,1287.5349528362035
+60,5/26/2022,209,Clothing,60,25.0,Female,Piskivka,Għaxaq,Ebay,1234.9841206191807
+61,4/22/2023,184,Grocery,61,80.0,Female,Haoyi,Dali,Ebay,1217.5276783263532
+62,8/17/2022,1209,Electronics,62,35.0,Male,Pochayiv,Xintun,Overs12tock,2201.8128320338856
+63,12/29/2022,1030,Clothing,63,40.0,Male,Trzebieszów,Nowa Góra,Ebay,2116.324547582848
+64,3/24/2023,1037,Entertainment,64,39.0,Polygender,Surubim,Kribi,Overs12tock,2002.909224070269
+65,2/24/2023,1096,Grocery,65,70.0,Male,Chambar,Armação de Pêra,Kostco,2026.942523386333
+66,1/10/2023,81,Clothing,66,19.0,Female,Calheta de Nesquim,Měřín,JCPenney,1151.7044996343552
+67,1/6/2023,913,Electronics,67,38.0,Female,Neglasari,Heiiyugou,Ebay,2022.5467168947043
+68,1/1/2023,119,Clothing,68,30.0,Male,Volgograd,Ozamiz City,Seph$ora,1133.5496872109475
+69,9/21/2022,1136,Home Goods,69,32.0,Male,Bitung,Bajiao,Kostco,2355.619346379692
+70,9/24/2022,169,Clothing,70,87.93764803411378,Female,Pendembu,,Apple,1312.6688599898882
+71,11/28/2022,1068,Entertainment,71,54.0,Male,Ha,Caçapava do Sul,Etseazy,2079.0890853815854
+72,2/13/2023,1106,Grocery,72,76.0,Female,Lap Lae,København,Ebay,2055.2852401418877
+73,6/16/2022,907,Clothing,73,87.55664410052101,Male,Qingyang,,Ulta ASDBeauty,2098.050289975961
+74,11/8/2022,1013,Entertainment,74,85.0,Bigender,Leribe,Chicago,Seph$ora,2027.6192029006947
+75,8/22/2022,224,Clothing,75,34.0,Female,Dianwan,Amersfoort,Ebay,1014.4013473584382
+76,9/5/2022,835,Entertainment,76,72.0,Male,Semënov,Masākin,Ebay,1893.2165878788726
+77,6/6/2022,136,Entertainment,77,75.0,Male,Kampungladang,Miracema,Target123,1176.0121699907766
+78,10/29/2022,868,Entertainment,78,88.2226960327574,Female,Birayang,,Target123,1740.8015699431444
+79,2/19/2023,142,Home Goods,79,24.0,Male,Gayam,Cerrito,Ebay,983.1678377318505
+80,1/13/2023,993,Electronics,80,52.0,Female,Devon,Dmitrov,Apple,1941.8436440633982
+81,8/17/2022,842,Home Goods,81,65.0,Genderqueer,Postojna,Shun’ga,Kostco,2019.6068232955024
+82,8/14/2022,1082,Home Goods,82,20.0,Female,Doljevac,Santiago Puringla,Overs12tock,2024.060903487159
+83,10/23/2022,949,Home Goods,83,37.0,Male,Shuangyang,Paingar,Ebay,1793.150994834179
+84,2/22/2023,138,Entertainment,84,88.24077546985546,Female,Dębowa Łąka,,Ebay,1131.859828989624
+85,8/2/2022,118,Electronics,85,68.0,Male,Orekhovo-Borisovo Severnoye,Muxagata,Maci's,1188.8274576465938
+86,3/30/2023,37,Entertainment,86,45.0,Genderfluid,Makarov,Balboa,Target123,1039.261180958399
+87,11/22/2022,44,Electronics,87,28.0,Female,Nankou,Huagu,Ebay,955.6565344777503
+88,6/11/2022,980,Home Goods,88,79.0,Female,Barisāl,Jiangchi,Ebay,1913.257145735203
+89,3/20/2023,965,Home Goods,89,87.82438954276691,Female,Yimnón,,NordstromC,2024.5812367301305
+90,1/14/2023,983,Entertainment,90,41.0,Female,Montería,Santa Lucía Cotzumalguapa,Ebay,1971.3087392636926
+91,6/12/2022,1030,Home Goods,91,47.0,Male,Gongju,Bancroft,Seph$ora,2088.569630552926
+92,7/31/2022,848,Clothing,92,38.0,Male,Horní Lideč,Nueva Cajamarca,Target123,1839.7438215559778
+93,6/2/2022,1026,Entertainment,93,77.0,Male,Mongaguá,Huainan,Seph$ora,1972.756586616905
+94,9/12/2022,937,Clothing,94,42.0,Female,Kraczkowa,Myronivka,Apple,2050.5745485083767
+95,9/19/2022,964,Home Goods,95,20.0,Female,Shuanglong,San Miguel Dueñas,Ebay,2075.7467107896678
+96,7/10/2022,872,Home Goods,96,32.0,Female,Diré,Ngandangan,Ebay,1892.7132476051088
+97,5/21/2022,338,Home Goods,97,51.0,Male,Bail,Kebonkaret,Ebay,1397.3309665707382
+98,8/11/2022,319,Electronics,98,65.0,Female,Zlaté Hory,Orhon,Kostco,1181.3555728712538
+99,6/16/2022,479,Grocery,99,22.0,Genderqueer,Muli,Volzhsk,Kostco,1523.8861121580428
+100,2/14/2023,654,Electronics,100,66.0,Female,Guangli,Issad,Apple,1751.989982812548
+101,4/12/2023,167,Clothing,101,30.0,Polygender,Malhiao,Voronezh,Nyke,1185.364314782485
+102,2/6/2023,886,Clothing,102,31.0,Female,Ipoh,Aguilares,Apple,1798.079029127172
+103,10/23/2022,1070,Clothing,103,26.0,Female,Mŭglizh,San Mariano,Overs12tock,2110.9585846534437
+104,4/16/2023,831,Entertainment,104,20.0,Female,Kosai-shi,Yucheng,Hom Dipot,1776.4688437056882
+105,9/3/2022,10,Entertainment,105,19.0,Female,Villa General Belgrano,Dajin,Target123,982.6395780925976
+106,4/20/2023,175,Electronics,106,19.0,Male,Talacogon,Palca,Gav,1316.30573453361
+107,7/19/2022,124,Clothing,107,70.0,Male,Armenia,Robonkon,Ebay,1249.9621303352403
+108,11/17/2022,325,Clothing,108,55.0,Female,Kodamachō-kodamaminami,Tim,Newegg,1405.595482500299
+109,11/18/2022,869,Entertainment,109,85.0,Polygender,Vodyane,Xiaoduchuan,NordstromC,1831.9782360738777
+110,12/7/2022,902,Home Goods,110,42.0,Male,Danao,Saint-Malo,Adydas,1907.2645266785746
+111,12/10/2022,178,Electronics,111,53.0,Male,Itaituba,Zhongxi,Ulta ASDBeauty,1073.2476530054378
+112,6/1/2022,947,Home Goods,112,26.0,Male,Thaon-les-Vosges,Jiayuguan,Maci's,1926.8172669590886
+113,2/4/2023,1184,Home Goods,113,23.0,Female,Nova Venécia,Nyeri,Ebay,2158.275136726901
+114,5/30/2022,161,Electronics,114,31.0,Female,Lewoluo,Sierpc,Ulta ASDBeauty,1188.5237118675934
+115,12/8/2022,1084,Clothing,115,72.0,Male,Krasnokholm,Tiebukenwusan,Apple,2168.4096727901615
+116,7/12/2022,849,Grocery,116,44.0,Female,Belozërskoye,Khonj,Etseazy,1875.2518426429333
+117,9/5/2022,1062,Clothing,117,74.0,Male,Cibinong,Hội An,Ebay,1971.412824234299
+118,3/29/2023,977,Home Goods,118,38.0,Female,Hamburg,Mulong,Kostco,2094.758360430737
+119,11/15/2022,0,Electronics,119,60.0,Male,Cezi,Liwu,Hom Dipot,903.8649309345697
+120,3/30/2023,46,Home Goods,120,87.96053814200233,Polygender,Chilmāri,,Target123,977.4751581745363
+121,4/5/2023,463,Grocery,121,30.0,Female,Sukaratu,San Francisco,Best Buyy,1525.193851013527
+122,5/11/2022,985,Clothing,122,34.0,Male,Chlewiska,Jibu Hulangtu,Ebay,1965.5374999221112
+123,3/10/2023,1017,Electronics,123,52.0,Non-binary,Porangatu,Dongxin,Ebay,2089.9437123331904
+124,7/31/2022,1100,Entertainment,124,87.70577139894144,Female,Urasqui,,Ebay,2158.298098944062
+125,7/26/2022,962,Entertainment,125,49.0,Male,Badovinci,Nowshera,Nyke,1792.1184255734831
+126,5/28/2022,148,Home Goods,126,63.0,Male,Yangpu,Stebnyk,Apple,1114.7463963143155
+127,7/3/2022,20,Home Goods,127,70.0,Male,Suyang,Manjacaze,Etseazy,1034.6194358904404
+128,3/9/2023,897,Electronics,128,33.0,Male,Bizhou,Rosebank,Nyke,1965.273193464378
+129,10/23/2022,153,Electronics,129,88.03751770061963,Female,Karangsari,,Ebay,1161.1856352325526
+130,3/30/2023,871,Entertainment,130,78.0,Male,Vila Chã do Monte,Järvakandi,Target123,1970.6459518471772
+131,1/8/2023,44,Entertainment,131,43.0,Male,Huayang,Socorro,Newegg,1078.4412415190004
+132,6/12/2022,1015,Clothing,132,39.0,Female,Lago dos Rodrigues,Lincheng,Ebay,2084.153300669718
+133,12/5/2022,51,Home Goods,133,68.0,Bigender,Yam,Nykarleby,NordstromC,1143.1311808989867
+134,8/1/2022,1070,Grocery,134,88.63451266732714,Female,Patitírion,,Apple,2098.0553030642077
+135,12/7/2022,1011,Clothing,135,32.0,Female,Zelenogradsk,Shimonoseki,Overs12tock,2026.669082972732
+136,1/21/2023,832,Clothing,136,83.0,Male,Lwengo,Zhenjiang,Gav,1855.8982607913483
+137,11/9/2022,271,Grocery,137,58.0,Agender,Oygon,Sahagún,JCPenney,1219.3859272195677
+138,11/2/2022,935,Grocery,138,18.896348026708814,Male,Duba-Yurt,,Apple,2002.8223254752907
+139,10/7/2022,1139,Entertainment,139,46.0,Female,Lycksele,Bayanaūyl,Ebay,2042.8484637065014
+140,11/3/2022,954,Entertainment,140,83.0,Male,Weda,Guadalupe,Seph$ora,2001.6173092076729
+141,3/30/2023,87,Entertainment,141,50.0,Female,Dayapan,Ketapang,Maci's,950.1754176300003
+142,3/28/2023,31,Grocery,142,67.0,Agender,General Arenales,Edinburgh of the Seven Seas,Target123,985.3294185219698
+143,5/28/2022,2,Electronics,143,74.0,Male,Langgen,Huntington,Apple,1104.9227638249179
+144,1/12/2023,969,Clothing,144,80.0,Male,Toshbuloq,Xike,Kostco,1855.509075121344
+145,6/17/2022,913,Home Goods,145,73.0,Female,Hihyā,Morawica,Overs12tock,1823.0538766576278
+146,1/28/2023,959,Clothing,146,43.0,Female,Araxá,Antsirabe,Ebay,1874.7320357890271
+147,4/4/2023,891,Electronics,147,19.0,Female,Sambilawang,Norfolk County,Kostco,1889.3084292162885
+148,1/25/2023,842,Electronics,148,56.0,Female,Patrocinio,Shuvakish,Ebay,1730.2071239564593
+149,12/8/2022,1092,Clothing,149,50.0,Agender,Liushi,Banocboc,Wayfa$ir,2197.327238706079
+150,2/25/2023,999,Home Goods,150,36.0,Female,Åkersberga,Revolucion Verde,JCPenney,2222.4344233708675
+151,3/29/2023,987,Home Goods,151,71.0,Female,Waigete,Hawassa,Apple,2002.6394676981304
+152,1/22/2023,982,Entertainment,152,67.0,Male,Muting,Jäppilä,Gav,1897.0585759347805
+153,2/19/2023,15,Electronics,153,84.0,Polygender,Malasila,Suozhen,Etseazy,1028.401547490548
+154,11/17/2022,0,Electronics,154,41.0,Male,Gurgurnica,Andovoranto,NordstromC,964.2354150427484
+155,10/6/2022,970,Clothing,155,56.0,Male,Saint-Denis,Oesao,Nyke,2104.3880757510324
+156,5/4/2022,151,Grocery,156,50.0,Non-binary,Shikhany,Auxerre,Overs12tock,1059.9229873051538
+157,11/16/2022,11,Grocery,157,72.0,Female,Yulong,Piotrków Trybunalski,Ebay,1025.6172508010811
+158,2/23/2023,395,Electronics,158,88.00723453132588,Male,Huangcun,,Ebay,1362.1154672430496
+159,5/17/2022,1133,Grocery,159,25.0,Male,Ilovka,East End,Ebay,2114.493711724485
+160,4/11/2023,935,Home Goods,160,87.66479833206829,Female,Haoshui,,Ebay,1970.3572826481948
+161,3/9/2023,75,Electronics,161,59.0,Female,Eha Amufu,Ksawerów,Overs12tock,1271.7852779323002
+162,2/24/2023,883,Grocery,162,87.76353469266857,Female,Kulevcha,,Adydas,1976.3476038371
+163,3/4/2023,391,Electronics,163,46.0,Male,Silvares,Pandanwangi,NordstromC,1345.6739191871568
+164,4/21/2023,987,Electronics,164,70.0,Agender,Sukorejo,Banjarjo,Adydas,1954.0977086896546
+165,10/25/2022,380,Grocery,165,88.08291452611228,Polygender,Padangtepung,,NordstromC,1282.5624363810387
+166,9/17/2022,812,Grocery,166,55.0,Male,Xin’an,Kalapagada,Etseazy,1943.1134714587577
+167,4/19/2023,130,Entertainment,167,79.0,Female,Mamuša,Bom Jesus da Lapa,Ebay,1231.0043739204773
+168,7/29/2022,221,Clothing,168,60.0,Male,Longford,Olbramovice,Ebay,1394.405157752783
+169,3/17/2023,370,Home Goods,169,33.0,Female,Slavonice,Roubaix,Ebay,1449.3434901814007
+170,11/5/2022,1098,Grocery,170,22.0,Male,Gardutanjak,Cienfuegos,Overs12tock,1976.192235211005
+171,9/1/2022,918,Electronics,171,78.0,Male,Huakoulongtan,Hechun,Maci's,2036.832524567394
+172,4/7/2023,77,Clothing,172,84.0,Female,Wucheng,Limoeiro do Ajuru,Ebay,1028.3030624935159
+173,7/29/2022,943,Grocery,173,21.0,Male,Kasukabe,San Pablo,Overs12tock,2019.61370882161
+174,7/11/2022,1024,Home Goods,174,39.0,Female,Nîmes,Naberera,Apple,1985.5900261409347
+175,7/1/2022,1168,Entertainment,175,76.0,Female,El Paso,Velká Bystřice,Ebay,2043.9487097123897
+176,2/12/2023,894,Clothing,176,69.0,Male,Enhtal,Železná Ruda,JCPenney,1868.9435327991182
+177,2/1/2023,739,Clothing,177,80.0,Female,Volodymyr-Volyns’kyy,Pukou,Ebay,1711.1488019491158
+178,11/6/2022,1117,Home Goods,178,26.0,Male,Maceió,Kegeyli Shahar,Target123,1890.041759471782
+179,2/17/2023,43,Home Goods,179,75.0,Female,Listvyanka,Curanilahue,Adydas,1169.034638011895
+180,5/28/2022,1111,Entertainment,180,22.0,Male,Shangani,Donggang,Newegg,2050.6847973580666
+181,7/1/2022,980,Grocery,181,84.0,Genderqueer,Almaznyy,Mizhhir’ya,Ebay,2050.7286259726516
+182,3/21/2023,321,Clothing,182,19.350715468017615,Female,Tambalisa,,Maci's,1592.9240532146162
+183,12/28/2022,199,Clothing,183,50.0,Male,Boshchorbogh,Dubova (Driloni),Maci's,1225.2564126793072
+184,7/2/2022,1033,Home Goods,184,56.0,Male,Santa Nino,Sintung Timur,NordstromC,1981.2245861925614
+185,12/8/2022,892,Electronics,185,72.0,Female,Kotablolong,Las Trojes,Overs12tock,1871.7946647745316
+186,4/20/2023,202,Home Goods,186,20.0,Male,Kangān,Kapuan,Wayfa$ir,1119.9087056772087
+187,2/23/2023,893,Electronics,187,70.0,Female,Wuqiao,Saripin,Best Buyy,1751.2189954172682
+188,6/12/2022,1009,Entertainment,188,46.0,Female,Lagoaça,Okegawa,Ulta ASDBeauty,1923.9156753888963
+189,6/15/2022,1082,Electronics,189,67.0,Female,Doāba,Cercal,Hom Dipot,2101.7438565288976
+190,9/11/2022,942,Electronics,190,50.0,Male,Bazhu,Taiyigong,Wayfa$ir,2020.5098573305704
+191,12/15/2022,1023,Clothing,191,31.0,Female,Tripoli,Maco,Wayfa$ir,2010.5942525714388
+192,9/2/2022,94,Grocery,192,20.0,Female,Yingchuan,Rizal,Best Buyy,1104.9464886760575
+193,8/3/2022,361,Entertainment,193,87.98721360258773,Male,"Palmas De Gran Canaria, Las",,Ebay,1502.3988317602787
+194,5/26/2022,1028,Entertainment,194,46.0,Polygender,Mantalongon,Karanganyar,Newegg,2040.5624444588432
+195,9/11/2022,1013,Grocery,195,65.0,Female,Três Lagoas,Olhos de Água,Seph$ora,2122.622311651205
+196,4/16/2023,599,Electronics,196,88.10675317464322,Female,Managua,,Hom Dipot,1612.1580272763908
+197,9/8/2022,62,Home Goods,197,22.0,Male,Água Preta,Malveira,Best Buyy,1197.8503120721039
+198,1/29/2023,879,Entertainment,198,81.0,Polygender,Nankeng,Mamonit,Ebay,1981.242385298112
+199,5/9/2022,1003,Entertainment,199,38.0,Male,Yunga,Xianqiao,Seph$ora,2137.4927143470914
+200,5/24/2022,223,Clothing,200,18.846303645331417,Male,Coronel,,Kostco,1107.3722938958338
+201,3/28/2023,794,Clothing,201,67.0,Male,Pokrovka,Spitak,NordstromC,1770.0613428734923
+202,2/4/2023,1095,Entertainment,202,46.0,Male,Cabean,Pereira,Kostco,2155.2638835213957
+203,9/8/2022,903,Clothing,203,56.0,Female,San José,Mórrope,Ulta ASDBeauty,1898.3121948635571
+204,2/9/2023,673,Home Goods,204,48.0,Male,Ambositra,Jintang,Gav,1527.6802227843816
+205,5/14/2022,902,Electronics,205,51.0,Male,Söderhamn,Yuzhai,Gav,1907.8971137181672
+206,8/25/2022,958,Grocery,206,36.0,Male,Negla,Trindade,Newegg,1924.0076466768842
+207,10/20/2022,86,Grocery,207,18.0,Female,Majiang,Sabóia,Maci's,1159.9075488218157
+208,6/20/2022,956,Clothing,208,64.0,Non-binary,Ciketak,San Pablo,Adydas,2102.5275782875215
+209,1/25/2023,948,Electronics,209,22.0,Female,Wang’er,Dongqiao,Seph$ora,1779.1749758210037
+210,5/25/2022,339,Home Goods,210,74.0,Female,Libušín,Huayllati,Etseazy,1192.8765723819092
+211,9/11/2022,977,Electronics,211,80.0,Female,Beaumont,Harding,Ulta ASDBeauty,2005.9015305352843
+212,4/14/2023,1013,Electronics,212,33.0,Male,Cidahu,Bosobolo,Wayfa$ir,1920.0346928908916
+213,8/31/2022,1088,Clothing,213,87.8303398259557,Female,Xindong,,Kostco,2119.592854432264
+214,2/8/2023,1044,Clothing,214,19.0,Female,Järvakandi,Woodstock,Target123,1822.68572247954
+215,8/30/2022,970,Home Goods,215,88.26081483557972,Female,Danbury,,Gav,2077.7792286540634
+216,2/15/2023,971,Home Goods,216,52.0,Male,Arani,Lirang,Ulta ASDBeauty,1929.230763538772
+217,7/9/2022,854,Entertainment,217,81.0,Female,Boende,Santo Niño,JCPenney,1955.065675281259
+218,1/5/2023,945,Grocery,218,33.0,Male,Marinići,San Isidro,Ebay,1844.1800023920107
+219,4/15/2023,88,Clothing,219,23.0,Female,Farafangana,Mayisad,Ebay,1147.4605202594034
+220,4/21/2023,1097,Grocery,220,33.0,Female,Guiwu,Huanglong,Ebay,2233.7426886939747
+221,4/23/2023,51,Home Goods,221,82.0,Female,Aminga,Mandaue City,Hom Dipot,1182.2943504290013
+222,12/14/2022,43,Clothing,222,60.0,Female,Växjö,Boticas,Target123,1109.7322751703734
+223,5/1/2022,954,Grocery,223,85.0,Female,Pančevo,Cláudio,Ebay,2199.0436475588795
+224,12/3/2022,208,Entertainment,224,19.415640003483666,Bigender,Videira,,Best Buyy,1096.6099006017064
+225,11/15/2022,951,Grocery,225,36.0,Male,Kokologo,Winnipeg,Etseazy,1730.9501734104442
+226,8/4/2022,1000,Entertainment,226,62.0,Non-binary,Andrushivka,Alurbulu,NordstromC,2005.9804106959295
+227,2/22/2023,374,Clothing,227,74.0,Female,Shiyaogou,Bryukhovychi,Hom Dipot,1284.736581903335
+228,4/17/2023,1045,Entertainment,228,47.0,Male,Borda da Mata,Obollo-Afor,NordstromC,2073.7722840670176
+229,7/4/2022,1109,Grocery,229,78.0,Female,Emalgolin Mongolzuxiang,Timrå,Overs12tock,2244.6824462598033
+230,10/23/2022,922,Entertainment,230,78.0,Female,Zahvizdya,Jugezhuang,Hom Dipot,1924.9183765226912
+231,3/2/2023,283,Clothing,231,48.0,Female,Hofors,Huanshan,Target123,1198.3877772481706
+232,7/15/2022,893,Grocery,232,68.0,Male,Menzel Jemil,Rennes,NordstromC,2025.433283901915
+233,12/3/2022,876,Home Goods,233,44.0,Female,Huangkeng,Kasama,Best Buyy,1870.4484353911262
+234,9/9/2022,909,Clothing,234,73.0,Female,Jincheng,Dagang,Maci's,1811.4264512855066
+235,9/12/2022,305,Electronics,235,61.0,Male,Nangka,Huangzhu,Ebay,1166.6025730549554
+236,11/8/2022,975,Entertainment,236,45.0,Female,Khok Charoen,Rancho Viejo,Gav,1967.4384998960954
+237,9/24/2022,83,Clothing,237,84.0,Male,Listvyanka,Strömsund,NordstromC,896.5300973126898
+238,6/2/2022,1213,Entertainment,238,19.0,Male,Zhucun,Mirny,Best Buyy,2209.4969292218607
+239,1/14/2023,708,Clothing,239,32.0,Male,Hōfu,Agraharam,Overs12tock,1695.3635688467411
+240,4/8/2023,302,Electronics,240,30.0,Genderfluid,Capela,Gevgelija,Ebay,1280.6728763832489
+241,9/20/2022,1,Grocery,241,31.0,Female,Lakhdenpokh’ya,Invercargill,Kostco,1051.026600426627
+242,12/6/2022,952,Home Goods,242,42.0,Male,Pondohan,Pontivy,Ebay,2064.672927262649
+243,8/24/2022,1060,Electronics,243,48.0,Male,San Antonio,Keles Timur,Wayfa$ir,2060.700291853959
+244,8/11/2022,0,Entertainment,244,80.0,Male,Yuzhou,Itauguá,Overs12tock,923.866548084764
+245,12/31/2022,1038,Clothing,245,88.06526413655796,Male,Lanyang,,Etseazy,2006.2627400260578
+246,6/6/2022,1131,Electronics,246,87.60800492698718,Female,Haocun,,Gav,2029.9507649519114
+247,7/24/2022,911,Electronics,247,37.0,Female,Reno,Sevilla,Ebay,2157.755079647844
+248,9/11/2022,389,Clothing,248,50.0,Male,Kibuku,Colatina,NordstromC,1241.726893393014
+249,1/7/2023,27,Electronics,249,74.0,Female,Banyo,Alangilanan,Target123,918.901574047119
+250,10/14/2022,1128,Clothing,250,35.0,Female,Želiv,Walce,Ebay,2157.178367787187
+251,3/6/2023,954,Electronics,251,42.0,Male,Oskarshamn,Patquía,Ebay,2017.4459349936199
+252,5/29/2022,1086,Grocery,252,28.0,Female,Dadamtu,Hagi,Target123,1980.2191823295036
+253,12/26/2022,1028,Electronics,253,79.0,Male,Nelson,Zhangbei,Maci's,2095.6528482347153
+254,5/10/2022,779,Clothing,254,76.0,Agender,Alhambra,Talcahuano,NordstromC,1883.8262601879476
+255,11/2/2022,1188,Home Goods,255,21.0,Male,Tawau,Wa’eryi,Gav,2111.0486282722204
+256,7/27/2022,896,Entertainment,256,49.0,Female,Cachipay,Haicheng,Kostco,2003.3351589184458
+257,5/11/2022,1006,Electronics,257,79.0,Male,Enonkoski,Murom,Apple,1998.3937075739218
+258,5/2/2022,140,Entertainment,258,72.0,Female,Báguanos,Ridderkerk,Seph$ora,1088.026633183746
+259,9/2/2022,182,Home Goods,259,76.0,Male,Ust’ye,Columbus,Maci's,1222.6504624264212
+260,8/26/2022,220,Home Goods,260,60.0,Male,Ipoh,Baykonyr,Adydas,1340.02633619039
+261,11/2/2022,907,Electronics,261,87.9557553067985,Female,Kouqian,,JCPenney,1981.1886716690146
+262,7/13/2022,948,Grocery,262,38.0,Male,Ginowan,Tomigusuku,Seph$ora,1809.226509571044
+263,3/23/2023,31,Grocery,263,27.0,Female,Sundbyberg,Ngluwuk,Apple,911.4207925011046
+264,2/27/2023,355,Grocery,264,44.0,Male,Mundão,Las Toscas,Target123,1327.5152346890325
+265,2/14/2023,857,Grocery,265,49.0,Female,Rodniki,George Hill,Etseazy,1826.0647797225438
+266,1/11/2023,300,Clothing,266,55.0,Male,Springfield,San Marcos,JCPenney,1213.0375364154345
+267,5/11/2022,377,Clothing,267,28.0,Male,Vilya,Haykashen,Ebay,1248.6138240754576
+268,4/24/2023,1012,Entertainment,268,27.0,Male,Umag,Batulawang,Seph$ora,2050.5063070496435
+269,5/14/2022,1078,Electronics,269,25.0,Bigender,Shuiyuesi,Tornio,Nyke,1998.9529963187122
+270,7/12/2022,1017,Grocery,270,50.0,Male,Sarandë,Beigang,NordstromC,2085.1409527489627
+271,12/18/2022,1061,Home Goods,271,75.0,Genderqueer,Chadian,Pandean,Seph$ora,1961.427648187267
+272,9/29/2022,1059,Electronics,272,51.0,Female,Huinca Renancó,Jianfeng,Overs12tock,2137.569931403864
+273,3/7/2023,140,Grocery,273,53.0,Female,Qinghaihu,Babahoyo,Ebay,1135.7851369743787
+274,1/8/2023,762,Home Goods,274,70.0,Male,Jiaokui,Gravataí,Etseazy,1741.699057785498
+275,1/4/2023,1029,Grocery,275,54.0,Male,Albert Town,Lons-le-Saunier,Wayfa$ir,2101.885869015488
+276,2/15/2023,314,Electronics,276,64.0,Female,Shicheng,Banyo,Target123,1263.9572322318672
+277,7/4/2022,998,Entertainment,277,30.0,Male,Peimei,Corbeil-Essonnes,Ulta ASDBeauty,2020.431520617504
+278,7/27/2022,6,Home Goods,278,44.0,Female,Mariestad,Sukaharja,JCPenney,979.1642578534621
+279,7/14/2022,1135,Clothing,279,67.0,Female,Benjamín Aceval,Vavoua,Wayfa$ir,2168.783020808524
+280,6/30/2022,1087,Electronics,280,56.0,Female,Cikendi,Ribaldeira,Hom Dipot,1962.1424228030717
+281,9/20/2022,1160,Electronics,281,26.0,Female,Tangpu,Bharatpur,Hom Dipot,2123.516678699363
+282,3/13/2023,105,Electronics,282,47.0,Male,Mexico,Baipenzhu,Ulta ASDBeauty,1086.2263507120542
+283,1/29/2023,1073,Grocery,283,51.0,Genderqueer,Wyśmierzyce,Suncheon,Overs12tock,2149.533784231283
+284,2/8/2023,1106,Electronics,284,74.0,Male,Libmanan,Khursā,Ebay,1942.1219664759146
+285,2/19/2023,1062,Grocery,285,59.0,Male,Kŭrdzhali,Boende,JCPenney,1999.6292612132656
+286,7/25/2022,1010,Entertainment,286,82.0,Female,Ustynivka,Yuewan,Hom Dipot,2000.9711713208933
+287,7/25/2022,987,Entertainment,287,25.0,Female,Mingjiu,La Uvita,Ebay,1958.815435197656
+288,4/11/2023,1162,Electronics,288,78.0,Female,Pedreira,Ljusdal,Target123,2098.3026465730436
+289,5/18/2022,4,Grocery,289,44.0,Non-binary,Mashiko,Roma,Ebay,1151.9209126056405
+290,4/7/2023,32,Home Goods,290,37.0,Female,Włocławek,Adzopé,Nyke,740.5684475076077
+291,5/15/2022,998,Entertainment,291,44.0,Female,Busungbiu,Paghmān,Gav,1858.0811844482773
+292,1/20/2023,1302,Clothing,292,87.66834909781734,Female,Shahumyan,,Overs12tock,2311.1927499158483
+293,5/5/2022,953,Clothing,293,39.0,Female,Nice,Mikulovice,Apple,1941.0068146891867
+294,5/24/2022,1090,Electronics,294,76.0,Male,Zhouzai,Dajalorong,Ulta ASDBeauty,2287.8068006251933
+295,9/2/2022,860,Grocery,295,55.0,Male,Cama Juan,Longkou,Ebay,1907.9919507244758
+296,5/29/2022,179,Entertainment,296,85.0,Male,Dededo Village,Barranqueras,Apple,1173.4958282260473
+297,7/23/2022,997,Electronics,297,38.0,Agender,Limatambo,Cimo de Vila,Target123,1773.9567249886884
+298,6/30/2022,1033,Clothing,298,61.0,Polygender,Marāveh Tappeh,Sigiriya,Ebay,2028.2876423131006
+299,5/22/2022,1191,Home Goods,299,64.0,Male,Araras,Purong,Etseazy,2261.1579489593923
+300,7/5/2022,903,Grocery,300,47.0,Male,Igreja,Davydovo,Best Buyy,2129.14421384779
+301,3/19/2023,32,Entertainment,301,87.93439918588112,Male,Adani,,Hom Dipot,1090.5526324252464
+302,2/23/2023,1068,Entertainment,302,83.0,Male,Concepcion,Yên Lập,Ebay,2149.7177163065144
+303,8/5/2022,131,Clothing,303,26.0,Male,San Bartolomé Milpas Altas,Dokshytsy,Ebay,1186.8165063113934
+304,4/14/2023,11,Entertainment,304,35.0,Female,Santiago Nonualco,Vale,Target123,1090.7140886932066
+305,6/17/2022,1035,Clothing,305,51.0,Female,Gulbene,Tsiroanomandidy,Ebay,2131.83068231355
+306,3/17/2023,233,Home Goods,306,62.0,Male,Drenova,Xilian,Maci's,1324.1817041128438
+307,1/2/2023,917,Electronics,307,87.76192316471457,Male,Mozhaysk,,JCPenney,2089.596294204235
+308,12/31/2022,871,Grocery,308,21.0,Female,Foluo,Bunigeulis,Apple,1921.4108537681964
+309,12/4/2022,1012,Clothing,309,65.0,Female,Chavães,Manghit,Adydas,2016.2430714558932
+310,9/13/2022,919,Clothing,310,84.0,Female,Mirandela,Thành Phố Hà Giang,Kostco,1858.7720089119068
+311,7/1/2022,34,Home Goods,311,34.0,Female,Thị Trấn Yên Châu,Jaleswar,Ebay,1000.9844207801056
+312,1/18/2023,922,Grocery,312,49.0,Genderfluid,Soi Dao,Tarusa,Etseazy,1988.8578062118604
+313,7/11/2022,918,Electronics,313,59.0,Male,Mary,Detroit,Overs12tock,1801.4877911269687
+314,5/3/2022,501,Home Goods,314,83.0,Female,Solina,Kotabaru,Gav,1646.3398537676605
+315,10/6/2022,170,Grocery,315,62.0,Female,Alcáçovas,Itabuna,Ebay,1122.6382043502415
+316,5/23/2022,979,Home Goods,316,27.0,Male,Ballinteer,Manisi,Ebay,2039.6114182203564
+317,7/10/2022,107,Home Goods,317,69.0,Male,Guilhabreu,Perm,Maci's,1188.9365844311724
+318,8/21/2022,967,Entertainment,318,62.0,Male,Tasikmalaya,Honiara,Ebay,1877.9345929202043
+319,9/27/2022,1147,Clothing,319,57.0,Female,Ayotupas,Rikitgaib,Hom Dipot,2033.4798499187423
+320,7/2/2022,990,Grocery,320,88.19449519351569,Male,Tallahassee,,Overs12tock,2041.4506685000647
+321,7/13/2022,23,Clothing,321,41.0,Female,Arras,Capim Grosso,Seph$ora,935.8587715688616
+322,12/25/2022,1051,Home Goods,322,87.68011642531555,Male,Xibali,,Ulta ASDBeauty,2030.547104506507
+323,8/6/2022,902,Entertainment,323,60.0,Female,Karangduren Dua,Guyancourt,Best Buyy,1889.3027029837797
+324,5/24/2022,575,Home Goods,324,79.0,Agender,Arganil,Kankan,Hom Dipot,1553.2482049769937
+325,10/27/2022,56,Electronics,325,56.0,Male,Jindřichov,Naranjo,Ebay,1208.6542394836765
+326,10/14/2022,163,Home Goods,326,66.0,Female,Doujia,Franca,Hom Dipot,1083.0038604808103
+327,3/23/2023,152,Entertainment,327,19.0,Female,Molde,San Antonio,Ebay,1070.9057914950645
+328,5/20/2022,66,Clothing,328,42.0,Female,Shemonaīkha,La Trinidad,Kostco,1057.1804876657775
+329,4/9/2023,7,Home Goods,329,31.0,Female,Ribeiro,Limit,Newegg,1101.9823550024282
+330,2/14/2023,167,Entertainment,330,52.0,Female,Svatava,Zdice,Gav,1129.317093027249
+331,3/19/2023,103,Grocery,331,74.0,Female,Lang Suan,Pereira,Ulta ASDBeauty,1065.0574248697367
+332,9/5/2022,1080,Clothing,332,39.0,Male,Tairan Camp,Gornji Breg,Ebay,2110.296595642567
+333,1/10/2023,969,Electronics,333,18.0,Male,Düsseldorf,Tayuan,Etseazy,1915.4606155791023
+334,7/21/2022,1139,Home Goods,334,81.0,Male,Memphis,Rominimbang,Ebay,2247.4594392791414
+335,11/8/2022,991,Home Goods,335,66.0,Male,Wuxia,Ōarai,Adydas,1954.8388603766375
+336,11/27/2022,94,Electronics,336,87.55101991196271,Male,Agalteca,,NordstromC,1159.5974596541073
+337,11/5/2022,228,Electronics,337,79.0,Female,Xinfengjie,Tierra y Libertad,JCPenney,1312.1533198186007
+338,12/1/2022,204,Entertainment,338,60.0,Female,Shiqiao,Ouricuri,Maci's,1335.966012806787
+339,6/8/2022,1048,Electronics,339,42.0,Male,Paulista,Bamenda,Apple,1993.8355461012106
+340,3/14/2023,1100,Entertainment,340,18.0,Male,Morro Agudo,Paty do Alferes,Ebay,1921.4608979824989
+341,2/8/2023,871,Entertainment,341,76.0,Female,Sicheng,Muting,Maci's,1904.2790191713502
+342,7/15/2022,241,Clothing,342,78.0,Female,Aroroy,Ciudad Bolivia,Etseazy,1203.9028771397373
+343,2/11/2023,704,Home Goods,343,88.37707054044806,Male,Napanee Downtown,,Ebay,1669.8092144030759
+344,1/3/2023,993,Electronics,344,19.037570433576228,Male,Malinaw,,Wayfa$ir,2154.2449836530677
+345,4/20/2023,955,Clothing,345,64.0,Male,Xinglong,Navotas,Ebay,2020.567259553016
+346,3/8/2023,1039,Grocery,346,35.0,Female,Tawali,Duque de Caxias,Gav,2103.9490976455445
+347,11/18/2022,1097,Electronics,347,39.0,Male,Karanganyar,Hisai,Seph$ora,2054.7582404799246
+348,9/3/2022,915,Clothing,348,43.0,Male,Omsk,Dipayal,Etseazy,1942.7866795443988
+349,12/31/2022,977,Entertainment,349,72.0,Male,Maştağa,Chaoyang,Newegg,2060.4999345437163
+350,11/8/2022,1019,Clothing,350,54.0,Female,Changmaoling,Manjing,NordstromC,1984.5508987909047
+351,11/23/2022,334,Electronics,351,59.0,Female,Queenstown,Bergen,Ebay,1449.238992860204
+352,10/4/2022,1034,Electronics,352,50.0,Female,Ostrowite,Etinan,Overs12tock,2019.3721935820586
+353,12/12/2022,52,Clothing,353,68.0,Female,Tākestān,Środa Wielkopolska,Maci's,1015.4326236215614
+354,1/16/2023,1077,Electronics,354,47.0,Male,Nawal,Xukou,Apple,2102.2276741649143
+355,3/17/2023,1145,Electronics,355,28.0,Female,Luzon,Podosinovets,Target123,2321.725398876961
+356,4/5/2023,930,Entertainment,356,23.0,Genderfluid,Presidente Epitácio,Ujazd,Wayfa$ir,1918.099829862882
+357,1/16/2023,1091,Electronics,357,55.0,Male,Penang,Xinyuan,Ebay,1944.2969468670685
+358,1/7/2023,296,Home Goods,358,84.0,Female,Niutang,Gamut,Ebay,1386.4866460812452
+359,1/9/2023,721,Home Goods,359,25.0,Male,Tanalt,Tangfang,Overs12tock,1746.4707141781537
+360,3/2/2023,861,Entertainment,360,88.59636841158857,Male,Dongpu,,Newegg,1752.8359041527428
+361,6/15/2022,45,Clothing,361,81.0,Male,Waipare,São Tomé,NordstromC,1077.9282730451364
+362,8/1/2022,856,Clothing,362,70.0,Female,Morangis,Datong,Wayfa$ir,1882.0148126051793
+363,1/10/2023,86,Clothing,363,88.58228023797507,Male,Lápas,,Newegg,1110.9162739941737
+364,6/15/2022,1180,Electronics,364,76.0,Male,Xiangdian,Omigawa,Etseazy,2339.6211003673175
+365,3/25/2023,109,Clothing,365,55.0,Male,Clondalkin,Landvetter,Newegg,1082.5663130136552
+366,7/31/2022,186,Entertainment,366,51.0,Male,Sulang Tengah,Kafr Kannā,Maci's,1180.121555103974
+367,9/23/2022,1041,Entertainment,367,67.0,Female,Hacienda La Calera,Sivers’k,Ebay,2115.026392902094
+368,1/5/2023,42,Entertainment,368,67.0,Female,Fonte Boa dos Nabos,Lusacan,Hom Dipot,996.9559248286354
+369,4/24/2023,1085,Home Goods,369,62.0,Male,Pamiątkowo,Zambujal,NordstromC,2297.4778495878436
+370,5/12/2022,773,Clothing,370,59.0,Male,Tabu,Corrientes,Ebay,1833.9551789072077
+371,10/24/2022,1041,Entertainment,371,49.0,Male,Majiang,Sholokhove,Nyke,2158.495633930971
+372,1/15/2023,405,Home Goods,372,40.0,Male,Hezhang,Xaçmaz,Ebay,1402.2650284688589
+373,11/3/2022,1154,Grocery,373,82.0,Female,La Soledad,Stradbally,Seph$ora,2105.7217578989307
+374,12/8/2022,115,Clothing,374,84.0,Male,Bangeran,Guangshan,Gav,1049.4508723926501
+375,1/13/2023,1000,Grocery,375,82.0,Male,Aisai,Xingfeng,Maci's,2064.7442475205094
+376,5/29/2022,1077,Home Goods,376,31.0,Male,Kafr Baţnā,Hongch’ŏn,Ebay,2050.9633780516388
+377,4/24/2023,813,Grocery,377,48.0,Male,Vermoim,Cáceres,JCPenney,1706.266309913085
+378,5/10/2022,47,Entertainment,378,36.0,Female,Phonphisai,Tabuadelo,Hom Dipot,902.2024359398866
+379,10/20/2022,1009,Electronics,379,31.0,Male,Doropeti,Borūjen,Adydas,2128.4328870421928
+380,9/9/2022,26,Entertainment,380,54.0,Female,António Enes,Maying,NordstromC,994.8100362384013
+381,3/24/2023,1007,Clothing,381,19.03565347510621,Female,Canedo,,Maci's,2165.7003451588826
+382,11/8/2022,910,Grocery,382,48.0,Male,Curahkalak Tengah,Ōtawara,Adydas,1811.559144230388
+383,6/9/2022,507,Home Goods,383,64.0,Female,Gansa,Chabany,Ebay,1386.045983502811
+384,3/5/2023,833,Electronics,384,56.0,Male,Stockholm,Changhe,Kostco,1924.832282883219
+385,5/3/2022,85,Electronics,385,20.0,Female,Próti,São Sebastião do Caí,Newegg,1201.0365246923127
+386,2/10/2023,998,Home Goods,386,36.0,Male,Motrico,Longmen,Ebay,1911.1242417852272
+387,9/3/2022,881,Entertainment,387,85.0,Female,Xiaoling,Stare Pole,Ebay,1956.507522623154
+388,12/30/2022,932,Grocery,388,45.0,Male,Ciburial,Metlika,Ebay,1990.7123891127828
+389,3/18/2023,8,Electronics,389,75.0,Female,Gajrug,Foz Sousa,NordstromC,1062.606416404938
+390,12/31/2022,109,Electronics,390,40.0,Female,Tsybli,Cavadas,Best Buyy,1117.841896004059
+391,2/8/2023,26,Home Goods,391,36.0,Male,Nikopol,Malawag,Ebay,1045.9974357982085
+392,2/18/2023,420,Grocery,392,22.0,Male,Thawi Watthana,Almaty,Seph$ora,1492.2658176286704
+393,6/18/2022,1213,Clothing,393,57.0,Female,Monte da Chaminé,Trosa,Kostco,2208.9187625643294
+394,2/2/2023,389,Grocery,394,18.88567528154868,Female,Banjeru,,Overs12tock,1377.8632617292951
+395,7/9/2022,241,Electronics,395,45.0,Male,Suvorov,Banjar Triwangsakeliki,Maci's,1208.571065423395
+396,4/30/2022,968,Electronics,396,64.0,Genderfluid,Xiashitai,Alminhas,Adydas,1967.9134596752824
+397,4/9/2023,219,Entertainment,397,66.0,Male,Yongle,Rio Largo,Target123,1403.0957287955237
+398,3/21/2023,32,Home Goods,398,77.0,Male,Kirtipur,Dengtang,Best Buyy,925.3001256838728
+399,5/9/2022,175,Entertainment,399,55.0,Female,Apeldoorn,Sebeta,Overs12tock,1001.2571336510177
+400,11/11/2022,1064,Clothing,400,74.0,Female,Qianyou,Berlin,Newegg,2093.5600927996675
+401,9/13/2022,906,Entertainment,401,24.0,Male,Arthur’s Town,Brits,Target123,2038.8702669908753
+402,5/1/2022,1179,Clothing,402,58.0,Male,Dolulolong,Vrbice,Maci's,2270.331517565932
+403,12/8/2022,119,Clothing,403,36.0,Female,Jacksonville,Dipayal,Best Buyy,1043.4361462364
+404,1/3/2023,942,Clothing,404,26.0,Male,Puerto Princesa,Tres Arroyos,Best Buyy,2072.2198281503393
+405,9/9/2022,162,Electronics,405,47.0,Male,Ipoh,London,Wayfa$ir,1016.1110041236732
+406,9/18/2022,56,Entertainment,406,19.0,Male,Ban Takhun,Seres,Ebay,846.9461831033653
+407,5/16/2022,908,Grocery,407,30.0,Female,Jankomir,Rio Negrinho,Ebay,1891.1955443913394
+408,4/7/2023,1050,Clothing,408,34.0,Female,Libušín,Manzanares,Apple,2067.974872948681
+409,9/17/2022,195,Electronics,409,67.0,Male,Brusyliv,Nakano,NordstromC,1245.262083427245
+410,5/13/2022,22,Entertainment,410,20.0,Male,Wang Nam Yen,Dasiping,Ulta ASDBeauty,1102.7886482702988
+411,12/27/2022,368,Grocery,411,82.0,Female,Kefar Yona,San Fernando,Hom Dipot,1251.957295974756
+412,10/12/2022,1302,Home Goods,412,43.0,Male,Verd,Stan-Bekhtemir,Ebay,2183.5733071393024
+413,3/10/2023,314,Grocery,413,55.0,Female,Żelazków,Mākū,Target123,1248.113946593891
+414,4/23/2023,1098,Electronics,414,70.0,Male,Guniushan,Batelov,Ebay,2144.4834209575984
+415,9/21/2022,550,Clothing,415,59.0,Female,Novaya Lyalya,Qanliko’l,Ebay,1590.7361800905283
+416,10/6/2022,12,Home Goods,416,25.0,Male,Madīnat ash Shamāl,Lipinki Łużyckie,Ebay,1099.8761338559093
+417,8/6/2022,220,Home Goods,417,62.0,Male,Kista,Qaxa,Maci's,1155.7281487205687
+418,12/18/2022,171,Entertainment,418,64.0,Female,Barkol,Beichengqu,Seph$ora,1172.5532239817562
+419,4/14/2023,1019,Entertainment,419,22.0,Male,Crépy-en-Valois,Dabao’anzhen,Apple,2105.6083483839566
+420,12/20/2022,779,Entertainment,420,18.0,Male,Orléans,Río Grande,Ebay,1876.6980364543992
+421,4/17/2023,898,Home Goods,421,80.0,Female,Rousínov,Alcantara,Target123,1739.1072996010728
+422,6/20/2022,15,Electronics,422,87.74257831137301,Male,Strizhi,,Newegg,1040.6011566849895
+423,8/16/2022,1025,Electronics,423,75.0,Male,Mora,Hexing,Adydas,1826.8993588485023
+424,11/3/2022,1105,Entertainment,424,71.0,Female,Osieck,Silab,Ebay,2015.0262048309799
+425,1/11/2023,1134,Clothing,425,59.0,Male,Barnaul,Huixian Chengguanzhen,Ulta ASDBeauty,2181.628283969464
+426,9/4/2022,1085,Entertainment,426,37.0,Male,Koncang,Paris 17,Ebay,2210.6346956443654
+427,6/11/2022,919,Electronics,427,33.0,Female,Ballybofey,Poitiers,Maci's,1896.869373282254
+428,1/4/2023,994,Home Goods,428,19.0,Female,Évry,Pittsburgh,Gav,1956.8193153165385
+429,4/30/2022,266,Entertainment,429,52.0,Female,Tours,Saint-Bruno-de-Montarville,Seph$ora,1258.010498885937
+430,6/12/2022,11,Home Goods,430,87.74257831137301,Female,Estrela,,Adydas,1030.6962233434197
+431,2/22/2023,1022,Grocery,431,44.0,Female,Ladan,Gaotuan,Ebay,2016.6995904152095
+432,4/24/2023,1001,Electronics,432,35.0,Male,Cabugao,Baopukang,Overs12tock,1858.6804404305667
+433,8/16/2022,791,Electronics,433,71.0,Female,Nakatsugawa,Jibu Hulangtu,Ulta ASDBeauty,1866.0363408808366
+434,3/1/2023,174,Home Goods,434,19.0,Male,Lindavista,Nangaroro,JCPenney,1424.7513662325182
+435,12/20/2022,221,Home Goods,435,56.0,Male,Itapevi,Ibagué,Seph$ora,1276.065399037184
+436,3/23/2023,1120,Home Goods,436,87.74257831137301,Male,Hamilton,,Adydas,2120.415157609398
+437,4/19/2023,24,Entertainment,437,78.0,Male,Parakou,Jinping,Target123,1167.5266497751168
+438,9/16/2022,933,Entertainment,438,85.0,Male,Calizo,Dallas,Nyke,1923.9947561127328
+439,5/11/2022,1081,Grocery,439,23.0,Male,Kaczory,Lipiany,Seph$ora,2141.3410213655834
+440,1/11/2023,527,Entertainment,440,65.0,Male,Itapagé,San Roque,Best Buyy,1553.9752973326547
+441,1/12/2023,1094,Clothing,441,63.0,Female,Shōbara,West Palm Beach,Ebay,2295.6307872179073
+442,11/6/2022,237,Grocery,442,76.0,Female,Armenia,Białogard,Ebay,1202.3132112583053
+443,10/1/2022,39,Clothing,443,47.0,Female,Pitanga,Majiao,NordstromC,1055.4250126400757
+444,9/6/2022,626,Entertainment,444,22.0,Male,Drammen,Jelat,Seph$ora,1711.029287937816
+445,3/25/2023,56,Entertainment,445,27.0,Female,Islāmkot,Tabon,Ebay,976.7042658563765
+446,3/6/2023,836,Electronics,446,36.0,Male,Manta,Claveria,Ebay,1742.744554930471
+447,8/3/2022,1013,Home Goods,447,74.0,Male,Mingzhong,Shani,Newegg,1974.5925683744645
+448,8/18/2022,211,Electronics,448,70.0,Genderfluid,Sentieiras,Soure,JCPenney,1181.1612646262981
+449,9/10/2022,48,Electronics,449,84.0,Male,Castanhal,Berlin,Gav,796.4843399933436
+450,1/18/2023,6,Clothing,450,49.0,Male,Jakubowice Murowane,Tupambaé,Seph$ora,1057.5134076928603
+451,11/20/2022,1067,Grocery,451,78.0,Female,Ingå,Shanlian,Etseazy,1935.133362642542
+452,10/31/2022,110,Grocery,452,82.0,Female,Debe,Garzón,Seph$ora,1060.2127271989416
+453,12/14/2022,312,Clothing,453,37.0,Male,Palmerston North,Polen,Seph$ora,1212.0744262927406
+454,2/20/2023,4,Entertainment,454,33.0,Female,Bi’r Ḩāt,Mapaniqui,NordstromC,1075.4855276923702
+455,5/19/2022,952,Grocery,455,67.0,Female,Cibunar,Santa Maria,Etseazy,1944.4813051554283
+456,11/13/2022,1072,Home Goods,456,77.0,Male,Kalyny,San José,Ebay,2073.9271764804134
+457,3/7/2023,845,Home Goods,457,27.0,Female,Infanta,Lyambir’,Ebay,1775.0928123537378
+458,2/27/2023,1062,Clothing,458,63.0,Male,Měřín,Karangkedawung,Nyke,2220.9289280021026
+459,4/27/2022,1110,Home Goods,459,70.0,Male,Skänninge,Wanshan,Wayfa$ir,2085.675847573618
+460,6/1/2022,858,Entertainment,460,85.0,Male,Qijia,Bussum,Hom Dipot,1772.9096228639
+461,10/3/2022,980,Electronics,461,64.0,Genderfluid,Hagondange,Praia do Ribatejo,Apple,1981.3674953043278
+462,11/20/2022,810,Electronics,462,58.0,Female,Dębno,Cereté,Ebay,1818.4391893562592
+463,4/13/2023,1000,Grocery,463,78.0,Male,Tyczyn,Qinhong,Apple,1956.8873621182727
+464,12/3/2022,923,Electronics,464,40.0,Male,Pedraza La Vieja,Tarrafal,Nyke,1868.3950732499857
+465,12/30/2022,1070,Home Goods,465,71.0,Genderfluid,Vito,Waajid,Maci's,2093.0624242888516
+466,10/27/2022,904,Entertainment,466,21.0,Agender,Changfa,Gulbene,Hom Dipot,1977.937725478501
+467,9/11/2022,259,Grocery,467,28.0,Male,Novyy Oskol,Gunungkencana,Kostco,1462.828878681167
+468,12/5/2022,1161,Home Goods,468,75.0,Male,Dagui,Chełmża,Ebay,2189.852641080759
+469,9/27/2022,99,Electronics,469,41.0,Male,Pontevedra,General Elizardo Aquino,Best Buyy,1072.2944037367092
+470,2/1/2023,1094,Home Goods,470,32.0,Female,Cruz,Majiao,Overs12tock,2017.7145864006247
+471,8/12/2022,126,Clothing,471,78.0,Agender,Baltasar Brum,Akkol’,Ebay,1103.6599936230928
+472,9/23/2022,4,Electronics,472,68.0,Male,Njeru,Mayfa‘ah,Overs12tock,1234.7912709058037
+473,10/29/2022,852,Entertainment,473,69.0,Male,Roanne,Shangganshan,NordstromC,1928.2333327557008
+474,10/17/2022,17,Home Goods,474,88.08982480981135,Male,Dĩ An,,Nyke,837.4982628205317
+475,10/13/2022,866,Clothing,475,84.0,Female,Maduao,Jongīyeh,Ebay,1860.00601675369
+476,10/15/2022,94,Grocery,476,70.0,Male,Agnibilékrou,Waterbury,NordstromC,989.7861290488746
+477,10/11/2022,932,Electronics,477,63.0,Female,Buzuluk,Subic,Adydas,1992.1896300766443
+478,4/12/2023,558,Home Goods,478,75.0,Female,Zbůch,Jeong,Overs12tock,1581.0422278276328
+479,1/22/2023,118,Home Goods,479,19.04563969026905,Female,Fuwayriţ,,JCPenney,1127.4580220561488
+480,8/2/2022,94,Entertainment,480,69.0,Female,Žiežmariai,Standerton,Ulta ASDBeauty,1176.8519362730187
+481,9/23/2022,143,Clothing,481,54.0,Male,Laingsburg,Malaga,Maci's,1041.445733983711
+482,11/15/2022,1107,Grocery,482,57.0,Female,Baohe,Zhengcun,Ebay,2306.1020536247734
+483,2/4/2023,1024,Grocery,483,44.0,Male,Lingcheng,Barranca,Kostco,2012.388181731073
+484,7/27/2022,941,Grocery,484,82.0,Male,‘Abasān al Kabīrah,Bahaodi,Ebay,1863.2917498802474
+485,3/25/2023,93,Electronics,485,26.0,Male,Feondari,Liperi,Apple,1224.1863029300434
+486,5/21/2022,62,Electronics,486,36.0,Female,Eshowe,Anhua Daying,Overs12tock,1365.9853479956648
+487,9/2/2022,892,Entertainment,487,81.0,Female,Jumpangdua,Venda do Valador,Ebay,1940.7270859888206
+488,2/17/2023,41,Grocery,488,26.0,Female,Karangboyo,Kryry,Gav,1182.3555133749721
+489,6/23/2022,1002,Electronics,489,48.0,Male,Krajan,Palestina de los Altos,Maci's,2126.4799964970016
+490,7/9/2022,1024,Entertainment,490,52.0,Female,Dagushan,Marau,Ebay,1952.4841072707532
+491,11/9/2022,1008,Electronics,491,80.0,Female,Obala,San Isidro,Nyke,2003.840924113685
+492,12/10/2022,472,Home Goods,492,38.0,Female,Golopau,Pustomyty,Overs12tock,1305.0544645982145
+493,8/23/2022,161,Home Goods,493,22.0,Male,Tengrela,Recreio,Ebay,981.7438288154336
+494,10/27/2022,946,Entertainment,494,83.0,Female,Edosaki,Talitsy,Ebay,2049.1625922842913
+495,9/24/2022,18,Home Goods,495,39.0,Female,Buliu,Meikeng,Kostco,1011.978632144684
+496,3/2/2023,970,Grocery,496,77.0,Male,Wāling,Amarillo,Ebay,1821.5610439653406
+497,11/15/2022,978,Home Goods,497,62.0,Male,Cabatuan,Falun,Ebay,1724.674177472492
+498,4/18/2023,1088,Clothing,498,20.0,Male,Dingcheng,Cork,Maci's,2079.604900976243
+499,6/23/2022,921,Entertainment,499,37.0,Female,Santa Cruz Muluá,Goričan,Ebay,1823.5658730440036
+500,4/17/2023,499,Home Goods,500,35.0,Female,Jianggang,Popovo,Kostco,1447.363044873694
+501,7/23/2022,83,Home Goods,501,54.0,Male,Évry,Longmen,Ebay,1174.506362505858
+502,10/6/2022,1148,Clothing,502,68.0,Female,Kanshi,Novopokrovskaya,Hom Dipot,2221.5909878650496
+503,10/9/2022,1003,Electronics,503,18.937628649007934,Male,Moche,,JCPenney,2101.6813432776225
+504,3/29/2023,63,Home Goods,504,69.0,Female,Smokvica,Tiblawan,Overs12tock,878.2891150529276
+505,7/21/2022,126,Electronics,505,57.0,Female,Juncheng,Camplong,Hom Dipot,1282.1004301661899
+506,6/21/2022,921,Home Goods,506,54.0,Female,Luoyang,Paulínia,Ebay,1842.0860568913968
+507,5/27/2022,333,Grocery,507,40.0,Female,Sumberpitu,Laowobao,Adydas,1367.718021428917
+508,3/29/2023,902,Home Goods,508,43.0,Female,Lagoa,Wanglian,Adydas,2092.1448759134296
+509,5/17/2022,1060,Grocery,509,35.0,Female,Forninho,Al Jawādīyah,Overs12tock,2029.9811589945236
+510,11/11/2022,1091,Electronics,510,82.0,Female,Gaomiaoji,Batiano,Apple,2089.0352163848856
+511,11/1/2022,87,Grocery,511,87.95275485582754,Male,Stenungsund,,Adydas,1074.8885443926777
+512,12/2/2022,81,Electronics,512,63.0,Female,Hongkou,Lakinsk,Maci's,1128.61384011637
+513,9/30/2022,975,Grocery,513,52.0,Female,Xinxu,Lille,Ebay,1864.2479956805337
+514,12/10/2022,178,Entertainment,514,54.0,Male,Weishanzhuang,Achanizo,NordstromC,1131.22674683461
+515,2/7/2023,1091,Electronics,515,36.0,Female,Halmstad,Langzhong,Gav,2011.44962039331
+516,9/28/2022,960,Clothing,516,30.0,Male,San Francisco,Slatina,Ulta ASDBeauty,1940.520632010655
+517,4/14/2023,1022,Electronics,517,26.0,Female,Criciúma,Riosucio,Ulta ASDBeauty,1913.112162745584
+518,1/8/2023,997,Electronics,518,43.0,Female,Yongjiu,Oued Laou,Overs12tock,2056.7334354642126
+519,1/19/2023,1034,Entertainment,519,57.0,Female,Sidzina,Haeju,Nyke,1949.9416774881834
+520,12/31/2022,1129,Clothing,520,78.0,Male,Puchong,São Fidélis,Ebay,2015.9531244065452
+521,2/13/2023,1086,Electronics,521,79.0,Male,Blagnac,Gjøvik,JCPenney,2050.6967185984076
+522,9/7/2022,1118,Entertainment,522,88.19449519351569,Female,Pendembu,,Nyke,2010.8625039958515
+523,2/6/2023,241,Electronics,523,82.0,Female,Tiassalé,Xialaxiu,Etseazy,1313.2431121878528
+524,6/11/2022,792,Clothing,524,88.11034637011038,Male,Londiani,,Adydas,1789.6221563614567
+525,9/14/2022,1100,Clothing,525,57.0,Male,Yangjiaqiao,Orodo,Seph$ora,2129.4109834305236
+526,5/2/2022,813,Home Goods,526,82.0,Female,Duru,Acarí,Maci's,1881.3899034635824
+527,11/13/2022,119,Grocery,527,52.0,Female,Wang Chan,Gardēz,Ebay,1035.8222269634484
+528,7/2/2022,1031,Electronics,528,43.0,Male,Shuangxi,Áyioi Apóstoloi,Adydas,1972.1305088702525
+529,5/31/2022,987,Grocery,529,22.0,Male,Durham,Eirunepé,Ebay,1800.858444842107
+530,3/18/2023,1122,Entertainment,530,87.95275485582754,Female,Laspezia,,Hom Dipot,2180.4000808841456
+531,7/28/2022,114,Grocery,531,80.0,Male,Osias,Nossa Senhora de Machede,Ebay,1186.3331269443859
+532,2/9/2023,945,Home Goods,532,42.0,Male,Mosopa,Alvarães,Ebay,2022.5486346636112
+533,10/18/2022,37,Home Goods,533,19.018304346471563,Male,Santos,,Adydas,1363.408376428852
+534,10/27/2022,946,Grocery,534,82.0,Male,Grabica,Vorob’yovo,Gav,1953.491108070099
+535,4/16/2023,190,Clothing,535,54.0,Male,Plomárion,Nezhinka,Apple,1324.5310059743094
+536,10/17/2022,1147,Home Goods,536,78.0,Male,München,Vishow,JCPenney,2264.4383170199244
+537,6/9/2022,1203,Home Goods,537,58.0,Female,Svenljunga,San Luis,Gav,2055.0769673982395
+538,8/3/2022,1048,Home Goods,538,35.0,Male,Koh Tao,Takehara,NordstromC,2011.0348217241833
+539,10/28/2022,131,Entertainment,539,43.0,Genderfluid,Ndago,Xiaosong,Apple,1151.5341999409993
+540,7/20/2022,847,Entertainment,540,41.0,Female,Vila Fria,Lurugan,Overs12tock,1816.937711448912
+541,10/13/2022,997,Electronics,541,18.0,Male,Shijia,Charleville-Mézières,Ebay,2087.0575404697674
+542,12/2/2022,392,Home Goods,542,61.0,Female,Puerto Santander,Marneuli,Ebay,1306.6443053631815
+543,3/28/2023,1080,Grocery,543,21.0,Male,Tawaran,Olofström,Etseazy,2047.487208728196
+544,5/15/2022,300,Electronics,544,28.0,Male,Madīnat Ḩamad,Changbu,Wayfa$ir,1296.7183490048515
+545,7/29/2022,117,Home Goods,545,48.0,Male,Krynice,Chaoyang,Ebay,1004.8010672059846
+546,4/10/2023,962,Electronics,546,42.0,Male,Dongli,Moret-sur-Loing,Newegg,1903.139888781377
+547,8/7/2022,348,Home Goods,547,54.0,Male,Granada,Dalsjöfors,Overs12tock,1399.3860754694742
+548,8/27/2022,1134,Electronics,548,23.0,Female,Goryachevodskiy,Nova Lima,Target123,2216.407647440342
+549,5/18/2022,997,Home Goods,549,58.0,Agender,Gibato,Tyczyn,Adydas,1864.326035846565
+550,6/12/2022,890,Clothing,550,69.0,Female,Batken,Koungou,JCPenney,1897.5182474136177
+551,4/8/2023,982,Entertainment,551,42.0,Female,Cayenne,Brijest,JCPenney,1936.7034539737415
+552,4/5/2023,750,Grocery,552,53.0,Female,Peterhof,Xiaoshanzi,Seph$ora,1780.247983672802
+553,6/30/2022,858,Home Goods,553,28.0,Female,Concepción de La Vega,São Mateus do Sul,Newegg,1823.608565020495
+554,7/22/2022,131,Entertainment,554,22.0,Female,Al Ghizlānīyah,Skelleftehamn,Ebay,943.5721804014808
+555,1/30/2023,1,Home Goods,555,38.0,Male,Lancaster,Manggis,Newegg,939.6444607195825
+556,12/19/2022,127,Grocery,556,47.0,Female,Jbaïl,Yanmenkou,NordstromC,1095.339581726366
+557,9/22/2022,98,Electronics,557,81.0,Male,Studzionka,Smyshlyayevka,Nyke,1039.4241632461253
+558,1/12/2023,962,Clothing,558,40.0,Male,Лабуништа,Dongguan,Etseazy,1912.2053854689184
+559,2/11/2023,1081,Home Goods,559,31.0,Male,Káto Asítai,Ketian,Gav,1945.5530593648614
+560,5/23/2022,227,Entertainment,560,18.0,Male,Aglipay,Cajacay,Etseazy,1234.8950146967281
+561,2/28/2023,992,Entertainment,561,19.0,Female,Simpangpasir,Calinaoan Malasin,Maci's,1945.7374954968145
+562,4/17/2023,886,Entertainment,562,19.461246630745514,Male,Pulupandan,,Overs12tock,1822.8891527110584
+563,2/20/2023,829,Home Goods,563,50.0,Male,Zhendong,Donskoye,Ebay,1978.320883683681
+564,11/10/2022,37,Home Goods,564,46.0,Male,Lages,Unquillo,Ebay,1008.5757739670192
+565,5/10/2022,976,Grocery,565,29.0,Female,Mangai,Matriz de Camaragibe,Target123,1902.373083657486
+566,5/11/2022,342,Clothing,566,78.0,Male,Razumnoye,Sergeyevka,Overs12tock,1357.2359389124013
+567,3/4/2023,4,Electronics,567,24.0,Female,Xiling,Coaraci,Ebay,1092.5820699894343
+568,4/8/2023,883,Home Goods,568,61.0,Male,Rijeka,Troitskoye,Adydas,2072.768494075377
+569,2/25/2023,844,Electronics,569,80.0,Female,Longtian,Trélissac,Nyke,1691.058726317353
+570,4/9/2023,912,Clothing,570,49.0,Female,Shipunovo,Muleng,Ebay,1970.9982745884952
+571,6/9/2022,152,Electronics,571,19.0,Female,Huasahuasi,Xiashixiang,JCPenney,1292.037182708307
+572,3/25/2023,1013,Entertainment,572,68.0,Male,Novaya Mayna,San Bartolomé Milpas Altas,Overs12tock,2074.337687914028
+573,12/21/2022,181,Entertainment,573,52.0,Male,Kilju,Budakovo,Best Buyy,1019.5641049404205
+574,10/19/2022,987,Clothing,574,41.0,Male,Tama,West End,Maci's,2139.6135941784914
+575,4/30/2022,1049,Electronics,575,64.0,Male,Shuangkou,Būrewāla,Kostco,2055.5129786150574
+576,11/5/2022,780,Home Goods,576,61.0,Female,Jianba,Tampa,Ebay,1730.6497313092236
+577,6/3/2022,217,Entertainment,577,71.0,Bigender,Kosmach,Dovhe,Wayfa$ir,1352.5199454169717
+578,2/25/2023,874,Grocery,578,33.0,Male,Nashville,Police nad Metují,Nyke,1835.513035212619
+579,2/5/2023,828,Entertainment,579,41.0,Male,Xiaoyang,Desamparados,Seph$ora,1779.2595732260984
+580,2/23/2023,110,Clothing,580,25.0,Male,Jajawai,Hongshi,Etseazy,1096.907939085038
+581,7/29/2022,814,Clothing,581,51.0,Male,"Palmas De Gran Canaria, Las",Sumber,Target123,1928.5591466210753
+582,9/8/2022,160,Grocery,582,20.0,Male,Cikembar,Las Trojes,Adydas,1207.487234499174
+583,3/31/2023,372,Grocery,583,67.0,Female,Langxi,Madolenihm Municipality Government,Ulta ASDBeauty,1329.7562985837162
+584,7/20/2022,1056,Home Goods,584,78.0,Male,Pishaj,Baipu,Adydas,2084.9310515326574
+585,10/20/2022,1044,Grocery,585,87.62590839075627,Female,Rowotengah,,Ulta ASDBeauty,1931.1774342984277
+586,11/18/2022,169,Electronics,586,82.0,Male,Stanisław Górny,Sadkowice,Seph$ora,1297.5493659559058
+587,9/8/2022,260,Clothing,587,52.0,Male,Anuling,Beibao,Ebay,1112.7610872555954
+588,6/18/2022,174,Electronics,588,54.0,Female,Longquan,Mukun,Kostco,1286.4806698238335
+589,7/27/2022,1028,Entertainment,589,85.0,Male,Zlynka,Zhouzai,Apple,1976.3317547138395
+590,8/28/2022,1033,Entertainment,590,37.0,Female,Rancapeundey,Stryszów,Apple,1870.867873358988
+591,5/14/2022,88,Grocery,591,59.0,Female,Damatou,San Juan,JCPenney,1251.9503722535176
+592,1/16/2023,969,Grocery,592,19.18251376870713,Male,Sali,,Maci's,2057.2295695875832
+593,7/21/2022,973,Entertainment,593,52.0,Female,Verkhniye Achaluki,Jengglungharjo,Ebay,1972.0358019193582
+594,12/1/2022,92,Entertainment,594,44.0,Bigender,Selizharovo,Krajan Tanjungrejo,Apple,1106.303523727911
+595,6/9/2022,77,Clothing,595,68.0,Male,Pyongyang,Hidalgo,Maci's,979.4700286641992
+596,5/27/2022,832,Home Goods,596,51.0,Male,Xianyan,Krasnodon,JCPenney,1673.459899656873
+597,2/14/2023,498,Home Goods,597,19.0,Female,Cibeusi,Repentigny,Ebay,1307.314663021193
+598,2/5/2023,1215,Grocery,598,78.0,Male,Nor Gyugh,Adelaide Mail Centre,Ebay,2123.3793258816513
+599,12/20/2022,55,Grocery,599,45.0,Female,Shanghu,Casal,Etseazy,653.1357542037334
+600,10/10/2022,396,Clothing,600,38.0,Female,Selianítika,Lucerna,Ebay,1321.769991661593
+601,8/15/2022,1143,Entertainment,601,47.0,Female,Neftçala,Mandalay,Ebay,2250.4346862391835
+602,8/25/2022,954,Entertainment,602,22.0,Male,Kosino,Villanueva,Overs12tock,1915.7020333862404
+603,1/12/2023,941,Entertainment,603,85.0,Male,Santa Helena,Hecun,Target123,2118.4862146970945
+604,9/27/2022,28,Grocery,604,76.0,Female,Las Tablas,Jiupu,Wayfa$ir,1104.7973833449726
+605,2/9/2023,1014,Grocery,605,88.06948497391276,Male,Aswan,,JCPenney,1871.7809029125647
+606,6/15/2022,78,Electronics,606,88.10225526396945,Male,Jhang Sadr,,Ebay,1186.4031248248375
+607,10/21/2022,54,Grocery,607,27.0,Female,Dananshan,San Nicolás de los Arroyos,Overs12tock,1091.945173509251
+608,10/16/2022,25,Entertainment,608,60.0,Male,Lumijoki,Arue,Ebay,1152.7257924308597
+609,4/1/2023,864,Grocery,609,47.0,Female,Huazhuang,Daugai,Adydas,1747.497048817303
+610,7/3/2022,1123,Entertainment,610,81.0,Male,Yuanjiazhuang,Jagong,Target123,2085.772379808316
+611,12/23/2022,957,Electronics,611,34.0,Female,Kočevje,Zhujiatai,Newegg,1832.272609730911
+612,7/16/2022,1066,Entertainment,612,79.0,Male,Baş Göynük,Zhanping,Wayfa$ir,2172.500212171933
+613,4/4/2023,146,Home Goods,613,18.0,Male,Perené,Melchor de Mencos,Adydas,844.6540057721043
+614,11/1/2022,98,Clothing,614,88.52349681430707,Male,Ino,,Maci's,996.6261513840495
+615,7/23/2022,1030,Grocery,615,85.0,Female,Callahuanca,Santa Catalina - Dique Lujan,Overs12tock,2072.4545587473767
+616,3/24/2023,249,Electronics,616,18.0,Male,Huaxijie,Zhayang,Kostco,1005.9427162751263
+617,3/26/2023,93,Grocery,617,73.0,Female,Jargalant,Vyatskiye Polyany,Hom Dipot,1194.204636189799
+618,6/20/2022,1009,Home Goods,618,37.0,Female,Upig,Dieppe,Ebay,2015.0855995715815
+619,1/27/2023,880,Grocery,619,55.0,Female,Candating,Iset’,Ebay,1873.9040544916547
+620,7/20/2022,916,Entertainment,620,59.0,Male,Jargalant,Ambato Boeny,JCPenney,1840.619747611734
+621,1/25/2023,448,Home Goods,621,78.0,Female,Araçatuba,Lisala,Ebay,1560.4176346441445
+622,3/28/2023,238,Home Goods,622,80.0,Male,Taozixi,Daykitin,Ebay,1188.4038356748413
+623,5/6/2022,1055,Electronics,623,33.0,Male,Sladna,Akropong,Ulta ASDBeauty,1968.7676530889435
+624,1/3/2023,371,Grocery,624,52.0,Male,Haparanda,Lyamino,Ebay,1650.1954211752068
+625,10/3/2022,423,Electronics,625,79.0,Female,Birni N Konni,Chipinge,Apple,1499.1455261461285
+626,3/24/2023,254,Entertainment,626,39.0,Female,Pyhäjoki,Kopayhorod,Maci's,1322.3981124515963
+627,1/25/2023,1013,Entertainment,627,70.0,Male,Adrasmon,Áno Kómi,Adydas,2022.3591522449906
+628,8/27/2022,1037,Grocery,628,74.0,Female,Goshogawara,Chhāgalnāiya,Ulta ASDBeauty,1942.1062382061482
+629,10/13/2022,270,Home Goods,629,71.0,Female,Benešov,Vestmanna,JCPenney,1129.708376072294
+630,4/13/2023,283,Clothing,630,83.0,Male,Koni-Djodjo,Juyuan,Wayfa$ir,1345.7413387680572
+631,9/12/2022,52,Home Goods,631,57.0,Male,Lons-le-Saunier,Maoyang,Kostco,1133.0170510168296
+632,5/17/2022,324,Entertainment,632,59.0,Polygender,Piteå,Xin’andu,Ebay,1279.0166573445144
+633,10/28/2022,996,Clothing,633,56.0,Female,Mullovka,Chok Chai,Ebay,1836.2277460832547
+634,4/2/2023,1085,Clothing,634,66.0,Male,Riung,Jiangdong,Ulta ASDBeauty,2098.856685623721
+635,11/16/2022,803,Home Goods,635,51.0,Female,Hong’an,Shuhong,Wayfa$ir,1871.9477523686628
+636,8/8/2022,1161,Entertainment,636,76.0,Female,Pataypampa,Songjiang,Seph$ora,2144.480413088871
+637,2/9/2023,53,Clothing,637,69.0,Female,Pakemitan Dua,Malangabang,NordstromC,984.6332957456839
+638,7/25/2022,969,Entertainment,638,60.0,Female,Lubukgadang,Nancheng,Ebay,2015.106859165474
+639,7/19/2022,1035,Entertainment,639,33.0,Male,El Tambo,Qal‘ah-ye Shāhī,Ebay,1808.2977766794388
+640,11/4/2022,817,Home Goods,640,84.0,Female,Kihurio,Wuhe Chengguanzhen,Gav,1909.347481273074
+641,2/18/2023,203,Clothing,641,88.17236717361085,Female,Bafia,,Wayfa$ir,1172.230636450893
+642,1/11/2023,861,Electronics,642,24.0,Male,Kanoya,Slavgorod,Ebay,1732.2416491605127
+643,4/25/2023,376,Entertainment,643,27.0,Male,Pingfeng,Fuhai,Maci's,1365.7658966754154
+644,2/12/2023,998,Entertainment,644,55.0,Female,Bom Jesus do Itabapoana,Boca Chica,Wayfa$ir,1891.5130101548204
+645,12/1/2022,1142,Grocery,645,63.0,Agender,Hot,Jaraguá do Sul,Wayfa$ir,1914.8934342971356
+646,8/19/2022,862,Entertainment,646,19.0,Female,Białołeka,Laya,Apple,1815.6934013870932
+647,1/17/2023,109,Electronics,647,33.0,Female,Segoro,Santiago Vázquez,Ebay,1066.363145363437
+648,8/26/2022,893,Clothing,648,87.66834909781734,Female,Yancheng,,Ebay,2011.4960459623574
+649,10/3/2022,943,Grocery,649,26.0,Female,Middleton,Santa Rita,Etseazy,2133.2536983306254
+650,6/23/2022,921,Entertainment,650,77.0,Male,Potulando,Tatuí,Ebay,1833.0859644700683
+651,7/29/2022,283,Clothing,651,87.65846418283176,Male,Itu,,Ebay,1268.2998185259898
+652,8/7/2022,41,Grocery,652,39.0,Non-binary,Datar,Suicheng,Ebay,1148.1095343502438
+653,4/8/2023,441,Entertainment,653,26.0,Female,Longsheng,Ani-e,Ebay,1560.0543735445128
+654,9/5/2022,165,Home Goods,654,64.0,Male,Bembèrèkè,Ryglice,Apple,1326.4274311904312
+655,3/3/2023,103,Electronics,655,76.0,Male,Yaransk,Shangying,Nyke,1262.4760620278741
+656,12/24/2022,932,Electronics,656,72.0,Male,Jorf,Jianshe,Target123,2095.6082363741243
+657,11/9/2022,818,Electronics,657,47.0,Genderfluid,Paungde,Santa Bárbara d'Oeste,Target123,1895.9266745499795
+658,4/19/2023,81,Home Goods,658,18.0,Male,Otaslavice,Bueng Kum,Best Buyy,889.4199143354341
+659,4/16/2023,25,Entertainment,659,28.0,Female,Henglu,Yongfeng,Best Buyy,943.8329820511686
+660,8/10/2022,84,Entertainment,660,88.19457089530897,Male,Toba,,Overs12tock,1208.7553941924302
+661,3/30/2023,9,Entertainment,661,22.0,Male,Pandansari,Solnice,Overs12tock,983.0742878927595
+662,1/18/2023,201,Grocery,662,18.0,Male,Arteche,Benito Juarez,Adydas,1066.209285158126
+663,1/4/2023,1088,Entertainment,663,84.0,Male,Richmond,Lisiy Nos,Kostco,2186.3824007276185
+664,2/4/2023,58,Entertainment,664,49.0,Male,Kaédi,Köping,Seph$ora,1100.405451585794
+665,8/27/2022,247,Electronics,665,48.0,Female,Landvetter,Cibunar,Ulta ASDBeauty,1426.782197027953
+666,10/20/2022,1093,Entertainment,666,76.0,Female,Tshela,Vatutino,Maci's,2122.042482667558
+667,12/30/2022,987,Entertainment,667,87.54180210182709,Female,Yujia’ao,,Ulta ASDBeauty,1786.5765201380132
+668,8/19/2022,293,Electronics,668,19.221192729199906,Female,Kadaka,,Nyke,1301.842778365428
+669,3/16/2023,50,Entertainment,669,22.0,Female,Jendouba,Grebenskaya,Overs12tock,963.6448609076771
+670,11/19/2022,982,Electronics,670,53.0,Bigender,Sumberkemuning,Beidong,Nyke,2081.889205365319
+671,10/22/2022,51,Grocery,671,20.0,Male,Chornoliztsi,Citangtu Kaler,Ebay,1126.0803437969817
+672,4/12/2023,279,Clothing,672,36.0,Female,Sawahan,Praia Grande,Ebay,1355.9209428739425
+673,3/18/2023,1066,Clothing,673,73.0,Male,Leiden,Dunkerque,Nyke,2139.5348929424463
+674,6/1/2022,186,Clothing,674,62.0,Male,Rýmařov,Turus,Ebay,1192.7854184477173
+675,11/2/2022,1003,Home Goods,675,29.0,Female,Bagneux,Shengshan,Etseazy,1951.7949228498833
+676,12/14/2022,1121,Electronics,676,60.0,Male,Azacualpa,Zhukovskiy,Ebay,2119.5716223542863
+677,5/16/2022,1016,Electronics,677,37.0,Male,Dicun,Kovrov,Ulta ASDBeauty,2060.0601039781136
+678,6/15/2022,179,Electronics,678,27.0,Male,São Mateus do Maranhão,Alīpur,Maci's,1412.515492050081
+679,1/15/2023,1127,Grocery,679,88.36929058626804,Male,Talangnan,,Ebay,2167.075510985133
+680,1/31/2023,936,Entertainment,680,33.0,Female,Huarong Chengguanzhen,Lüxiang,Overs12tock,2035.4904585710033
+681,1/6/2023,1100,Home Goods,681,59.0,Female,La Concepcion,Balitoc,Hom Dipot,2115.039904068547
+682,7/5/2022,1019,Clothing,682,34.0,Male,Tsubame,Gazojak,Ulta ASDBeauty,2173.3337417640932
+683,5/23/2022,943,Electronics,683,79.0,Female,Drogomyśl,Adraskan,Ulta ASDBeauty,2052.670595803991
+684,7/29/2022,872,Electronics,684,59.0,Male,Baga Borihe,Радовиш,Ebay,1850.9659419296304
+685,3/3/2023,319,Grocery,685,48.0,Agender,Berthierville,Newark,Ebay,1317.7372843500762
+686,11/15/2022,8,Clothing,686,42.0,Bigender,Nossebro,Long’an Chengxiangzhen,NordstromC,1051.1312612932095
+687,7/30/2022,120,Electronics,687,77.0,Female,Pankovka,Tanlad,Nyke,1079.8504520779275
+688,8/9/2022,954,Clothing,688,28.0,Male,Pangao,Liulin,Ebay,2133.903426098561
+689,3/5/2023,28,Entertainment,689,19.0,Female,Vatutino,Alepoú,Wayfa$ir,1228.8807919772803
+690,5/10/2022,1129,Clothing,690,49.0,Female,Devitsa,Masparrito,JCPenney,2190.059540910212
+691,11/1/2022,285,Grocery,691,83.0,Male,Stockholm,Falënki,Ebay,1145.365969566326
+692,3/22/2023,1025,Electronics,692,88.50342333891443,Genderqueer,Bernal,,Overs12tock,2159.8426069349457
+693,1/18/2023,1107,Entertainment,693,58.0,Female,Yovon,Le Mans,Etseazy,2056.0165635776507
+694,6/9/2022,1007,Entertainment,694,84.0,Female,Tulay na Lupa,Krajan Demit,Adydas,1922.087872309571
+695,10/25/2022,201,Clothing,695,68.0,Male,Itapissuma,Huangtan,JCPenney,1222.2414336191996
+696,5/23/2022,1045,Home Goods,696,73.0,Female,Zhongshan,Union,Ebay,2006.3973218461238
+697,9/4/2022,247,Grocery,697,30.0,Male,Ratnapura,Rawa Satu,Ebay,1292.8682445698498
+698,5/4/2022,27,Entertainment,698,23.0,Female,Ochojno,Weichanglu,Ebay,1009.4046589632281
+699,1/8/2023,139,Grocery,699,42.0,Female,Qiaosi,Canelas,Kostco,1082.2102837499333
+700,9/12/2022,669,Grocery,700,88.08291452611228,Male,Shaowu,,Ebay,1549.7090052254796
+701,10/7/2022,65,Clothing,701,35.0,Female,Peras Ruivas,Confey,Gav,865.1555045710752
+702,6/1/2022,146,Clothing,702,19.0,Female,Aksu,Nowa Sarzyna,Overs12tock,1119.466595960318
+703,4/1/2023,1060,Clothing,703,88.18083505096901,Female,Phra Phrom,,Seph$ora,2227.8709383156015
+704,7/26/2022,1192,Electronics,704,44.0,Male,Verin Artashat,Fengshan,NordstromC,2244.2194628241673
+705,10/11/2022,1001,Clothing,705,55.0,Male,Sīnah,Unaizah,Ebay,2098.494534823174
+706,8/6/2022,1072,Electronics,706,30.0,Male,Canton,Numan,Hom Dipot,1972.156918547471
+707,1/20/2023,930,Clothing,707,41.0,Male,Caringin Lor,Zhuangshi,Wayfa$ir,1923.4968306908104
+708,7/4/2022,578,Entertainment,708,33.0,Male,Ishikawa,Stupsk,JCPenney,1774.570586291902
+709,5/8/2022,1071,Home Goods,709,40.0,Male,Zabłocie,Guacarí,Ebay,2079.651139202892
+710,8/24/2022,73,Home Goods,710,39.0,Male,Ilhabela,Ualog,Adydas,1023.3087109968144
+711,11/24/2022,924,Electronics,711,70.0,Male,Tādif,Juupajoki,Adydas,2062.2685557883638
+712,1/25/2023,34,Clothing,712,62.0,Male,Donghai,Kurovskoye,Kostco,1084.871584978087
+713,5/26/2022,1052,Home Goods,713,41.0,Polygender,Hexi,Mobile,Seph$ora,1972.4239524586708
+714,7/11/2022,1055,Electronics,714,61.0,Male,Guangchen,Catende,Ebay,2059.364216747355
+715,8/5/2022,1051,Entertainment,715,27.0,Male,Alcantara,Yangqiao,Overs12tock,2015.1540728815417
+716,7/26/2022,111,Grocery,716,83.0,Female,Obolo-Eke (1),Bilhorod-Dnistrovs’kyy,Wayfa$ir,953.8711495921705
+717,2/4/2023,882,Home Goods,717,22.0,Male,Zuru,Tiberias,Maci's,2019.0379955396816
+718,6/26/2022,454,Electronics,718,20.0,Female,Mikulčice,Danxi,Kostco,1434.9835450375065
+719,1/6/2023,880,Entertainment,719,46.0,Female,Lugulu,Tintina,Gav,1623.399382068268
+720,1/15/2023,202,Electronics,720,82.0,Male,Cacoal,Pakapasan Girang,Best Buyy,1335.4738112703656
+721,9/15/2022,919,Clothing,721,22.0,Genderqueer,Kawanoechō,Zabaykal’sk,Hom Dipot,1876.0103316257628
+722,11/16/2022,884,Entertainment,722,62.0,Male,Long Loreh,Xinghai,Ulta ASDBeauty,1971.1803099543329
+723,4/12/2023,1035,Grocery,723,73.0,Male,Juru,Kampungladang,JCPenney,2157.16387063798
+724,12/2/2022,863,Home Goods,724,19.0,Female,Npongge,Robonkon,Seph$ora,1843.7038399523653
+725,1/8/2023,978,Electronics,725,25.0,Female,Trubchevsk,Villa Ascasubi,Nyke,1910.8201325256664
+726,12/5/2022,171,Home Goods,726,25.0,Male,Loudi,Babah Rot,Ebay,1140.5964785509627
+727,12/13/2022,900,Clothing,727,32.0,Non-binary,Gabao,Shahkot,Overs12tock,1835.4768239986388
+728,3/23/2023,1006,Grocery,728,31.0,Male,Delson,Charleston,Ebay,1854.3864718166474
+729,12/25/2022,1036,Grocery,729,29.0,Male,Takokak,Jacutinga,Nyke,1902.357457590275
+730,8/27/2022,978,Clothing,730,45.0,Male,São Mateus do Maranhão,Shanguang,JCPenney,1974.5527801885817
+731,12/10/2022,27,Clothing,731,60.0,Male,Nereta,Alah Sāy,Best Buyy,912.1440979667476
+732,4/21/2023,1104,Entertainment,732,77.0,Female,Buchach,Balyqshy,Ulta ASDBeauty,2181.5776059926206
+733,7/13/2022,1022,Electronics,733,30.0,Non-binary,Postupice,Szydłowo,Ebay,1934.0331322926393
+734,1/9/2023,1108,Grocery,734,84.0,Female,Jinanten,Montemor-o-Velho,Ebay,2182.8068839424845
+735,6/20/2022,213,Clothing,735,88.18915564347047,Female,Delanggu,,Wayfa$ir,1397.105425993539
+736,1/20/2023,1103,Entertainment,736,74.0,Male,Weishan,Jiyang,Apple,2280.4312930804927
+737,7/11/2022,1078,Clothing,737,56.0,Male,Umeå,Cigemlong,Ebay,2199.8086148929824
+738,9/9/2022,1032,Grocery,738,83.0,Male,Porto-Novo,Mistřice,Ebay,1883.0482001826967
+739,1/21/2023,153,Home Goods,739,84.0,Male,La Gacilly,Hihyā,Newegg,1193.9393657712735
+740,11/10/2022,55,Grocery,740,25.0,Female,Paseh,Turka,NordstromC,1094.8301002773983
+741,8/23/2022,998,Entertainment,741,19.11131968386077,Female,Staraya Derevnya,,Newegg,1891.8531538703132
+742,7/13/2022,298,Grocery,742,88.23363588933208,Male,Wanliang,,Best Buyy,1158.9185356989742
+743,2/8/2023,14,Electronics,743,28.0,Female,Tatebayashi,Dauriya,Maci's,1068.4554412886469
+744,9/16/2022,1158,Grocery,744,40.0,Female,Paris 18,Jiepai,Ebay,2081.843849260971
+745,10/5/2022,34,Entertainment,745,30.0,Male,Sigayevo,Lukashin,Ulta ASDBeauty,1017.0220430170183
+746,10/23/2022,150,Home Goods,746,20.0,Female,Humen,Awilega,Ebay,1212.2755771590619
+747,5/2/2022,1010,Entertainment,747,54.0,Non-binary,Skole,Jinping,Nyke,2190.5571989637774
+748,8/1/2022,243,Clothing,748,45.0,Male,Tungipāra,Anjia,NordstromC,1279.9664367509388
+749,3/30/2023,68,Grocery,749,46.0,Male,Pedregal,Mbinga,Seph$ora,1154.4199777761767
+750,8/7/2022,66,Clothing,750,36.0,Male,Dijon,Mahābād,Gav,1008.0246521634286
+751,10/12/2022,1130,Grocery,751,66.0,Male,Yessentukskaya,Wailiang,Apple,1930.2826329596053
+752,5/1/2022,687,Clothing,752,77.0,Female,Luhyny,Aulnay-sous-Bois,Apple,1604.0296505418328
+753,11/29/2022,100,Clothing,753,58.0,Female,Aachen,Kharagauli,Target123,1077.2925352883383
+754,4/5/2023,110,Home Goods,754,32.0,Female,Baiquan,Penha Longa,Best Buyy,1358.7958732999764
+755,12/14/2022,823,Grocery,755,44.0,Female,Goascorán,Colesberg,Newegg,1844.4496211323833
+756,11/11/2022,878,Electronics,756,66.0,Female,Bessonovka,Hortolândia,Ebay,1852.9254544276714
+757,6/3/2022,19,Home Goods,757,23.0,Female,Novolugovoye,Daba,Ebay,1057.169358329588
+758,5/25/2022,1070,Grocery,758,62.0,Male,Lago da Pedra,Changxing,Gav,2082.5432732773716
+759,9/6/2022,953,Electronics,759,74.0,Male,Burrel,Guangyubao,Gav,1799.0551966945359
+760,12/11/2022,100,Entertainment,760,60.0,Female,Enewetak,Nangang,Ebay,1164.4707250773467
+761,4/21/2023,38,Home Goods,761,74.0,Male,Caijiagang,Santa Anita,Hom Dipot,984.5031894609733
+762,3/27/2023,1101,Electronics,762,20.0,Male,Strizhi,Juazeiro do Norte,Seph$ora,1965.335152267553
+763,6/4/2022,130,Clothing,763,87.76995417999281,Polygender,Iznoski,,Ebay,975.7176489455965
+764,10/7/2022,1040,Home Goods,764,18.967810419664392,Male,Březová,,JCPenney,1936.661525089064
+765,11/16/2022,967,Clothing,765,20.0,Female,Hepu,Huazhu,Ebay,1959.9031507226048
+766,2/21/2023,948,Electronics,766,84.0,Non-binary,Dabat,Wuling,Best Buyy,1948.0354085101312
+767,2/22/2023,979,Clothing,767,71.0,Male,Kojagete,Armanāz,Ebay,2063.6165986918395
+768,5/24/2022,949,Entertainment,768,87.4321906720907,Male,Nagutskoye,,Nyke,2073.6420681164464
+769,10/10/2022,1058,Entertainment,769,88.04225034772456,Male,Mijiang,,Target123,2260.739469518996
+770,3/22/2023,1017,Grocery,770,64.0,Genderqueer,María la Baja,Norrtälje,Ebay,2135.0575454733757
+771,6/12/2022,971,Entertainment,771,72.0,Female,Maluanluan,Sävsjö,Target123,2004.5545964242506
+772,6/2/2022,996,Grocery,772,57.0,Male,Lavandeira,Kilifi,NordstromC,2084.8343193299734
+773,10/29/2022,265,Electronics,773,67.0,Male,Veinticinco de Mayo,Zavoronezhskoye,Best Buyy,1370.7901053223043
+774,10/26/2022,951,Clothing,774,50.0,Female,Abha,Puntarenas,NordstromC,1981.572857556207
+775,10/3/2022,107,Home Goods,775,83.0,Male,Barueri,Anton,Nyke,929.5706428009128
+776,7/16/2022,1034,Grocery,776,78.0,Male,Nandu,Florencia,Ebay,2073.437634118289
+777,11/16/2022,29,Electronics,777,40.0,Male,Żywiec,Oekero,JCPenney,1218.232181385781
+778,3/6/2023,992,Grocery,778,66.0,Male,Miami Beach,Mosopa,Newegg,1907.3306173247727
+779,9/29/2022,991,Home Goods,779,25.0,Male,Pinhais,Altavista,Best Buyy,1978.968229481095
+780,11/21/2022,971,Grocery,780,23.0,Male,Shangcunba,Sājir,Ebay,1987.8465273493894
+781,6/24/2022,1090,Clothing,781,31.0,Genderqueer,Остров Пасхи,Fagatogo,Apple,2214.063508603202
+782,2/16/2023,145,Clothing,782,81.0,Male,Hāsilpur,Santo Anastácio,Ulta ASDBeauty,1210.2322808156848
+783,5/5/2022,1132,Entertainment,783,40.0,Male,Naukšēni,Wanareja,Apple,2220.1823508863745
+784,8/16/2022,939,Grocery,784,28.0,Female,Chenzhou,Nangka,Apple,1751.5003969235975
+785,9/7/2022,930,Entertainment,785,74.0,Genderqueer,Yuanyang Zhen,Rio,Ebay,2085.482937379904
+786,7/18/2022,898,Clothing,786,31.0,Male,Kutum,Yanhu,Gav,2007.0760814853854
+787,5/15/2022,33,Electronics,787,25.0,Female,Lindi,Paraná,Best Buyy,1020.8655475935649
+788,3/22/2023,1028,Home Goods,788,88.04000292587254,Female,Colonia Neuland,,NordstromC,1908.3543910803576
+789,6/19/2022,41,Grocery,789,28.0,Female,Chimtāl,Cergy-Pontoise,JCPenney,1188.579264574162
+790,6/8/2022,147,Electronics,790,25.0,Female,Daqingshan,Fradelos,Seph$ora,1109.716655947266
+791,10/5/2022,1052,Entertainment,791,49.0,Female,Gabasumdo,Banatsko Veliko Selo,Kostco,1949.5671443635058
+792,5/6/2022,27,Entertainment,792,19.290100393265888,Genderfluid,Busalangga,,Gav,1070.1363640938453
+793,5/15/2022,190,Home Goods,793,77.0,Female,Skhodnitsa,Sandaohezi,Target123,1342.076348885746
+794,12/26/2022,265,Grocery,794,56.0,Female,Qizili,Ja Ela,Ebay,1109.7647311888204
+795,1/2/2023,1105,Entertainment,795,76.0,Male,East London,Klole,Hom Dipot,2128.5060232636874
+796,10/6/2022,1226,Grocery,796,18.0,Female,Gujiang,Pégeia,Ebay,2305.2555671368796
+797,11/23/2022,154,Home Goods,797,30.0,Female,Xuhui,Sịa,Apple,1307.060579812117
+798,3/28/2023,53,Clothing,798,35.0,Male,Vila Nova,Borlänge,Gav,883.1933047544771
+799,12/17/2022,857,Entertainment,799,58.0,Male,Catania,Camalote,Ebay,1920.8166196803795
+800,4/1/2023,875,Home Goods,800,35.0,Male,Drahovo,Jinta,Best Buyy,1744.8149394128027
+801,10/14/2022,1012,Electronics,801,76.0,Female,Sap Yai,Fort Worth,JCPenney,1980.8204285642578
+802,9/24/2022,292,Electronics,802,70.0,Female,Lunsar,Saint-Denis,Newegg,1438.5374431156713
+803,8/9/2022,12,Electronics,803,50.0,Female,Luokeng,Brasília,Hom Dipot,889.2938754543069
+804,12/25/2022,1035,Electronics,804,62.0,Male,Pokrzywnica,Kamal,Apple,2009.7140736451606
+805,11/13/2022,1065,Electronics,805,70.0,Male,Mont-de-Marsan,Cololaca,Ebay,2082.205201156829
+806,5/29/2022,1141,Home Goods,806,39.0,Female,Soe,Stockholm,JCPenney,2028.1316205438557
+807,7/20/2022,499,Clothing,807,66.0,Female,Rosa Zarate,Otuke,Gav,1502.5763383373542
+808,12/5/2022,190,Grocery,808,40.0,Female,Namerikawa,Ambatondrazaka,Seph$ora,1199.563058805344
+809,5/23/2022,906,Clothing,809,57.0,Female,Bantarjati,Gayam,Seph$ora,1774.3593245440597
+810,9/24/2022,1016,Entertainment,810,78.0,Female,Katsuyama,Kertosari,Ebay,2143.04954821184
+811,10/29/2022,132,Home Goods,811,80.0,Female,Mezinovskiy,Corona,Ebay,1110.466548298201
+812,1/14/2023,67,Entertainment,812,53.0,Male,Santo Antônio do Monte,Hošťka,Best Buyy,891.0974094097319
+813,4/25/2023,1023,Grocery,813,82.0,Female,Yanglong,Headlands,Gav,2171.56707920403
+814,8/16/2022,1117,Electronics,814,61.0,Female,Raphoe,Zaandam,Maci's,2070.1425909090985
+815,3/18/2023,1092,Home Goods,815,48.0,Female,Taha Man Zu,Lorena,Ebay,2089.919985211592
+816,11/7/2022,101,Grocery,816,52.0,Female,Nîmes,Sumuragung,Etseazy,1111.976437102857
+817,8/24/2022,404,Clothing,817,75.0,Female,Tuen Mun,Devon,Ebay,1590.047622942857
+818,2/7/2023,1044,Home Goods,818,29.0,Female,Qorashina,Xiangfu,Target123,2004.217966350834
+819,3/7/2023,888,Entertainment,819,23.0,Male,Zangkaxa,Qiping,Kostco,1935.4255836976834
+820,4/2/2023,1027,Grocery,820,51.0,Male,Longcang,El Paso,Nyke,2059.0163412429138
+821,7/31/2022,910,Entertainment,821,49.0,Male,Borzęta,Grybów,Ebay,1786.949927491578
+822,4/29/2022,78,Home Goods,822,44.0,Male,Quinta do Sobrado,Malabugas,Ebay,1024.7028927287622
+823,7/20/2022,941,Grocery,823,28.0,Male,Ampahana,Banjaranyar,Newegg,1865.4949640710556
+824,3/6/2023,998,Grocery,824,58.0,Female,Tuam,Zhigulevsk,Seph$ora,1927.7987993076672
+825,12/10/2022,272,Electronics,825,38.0,Male,Askeaton,Kobiernice,Ebay,1128.4024696121553
+826,5/14/2022,924,Electronics,826,67.0,Female,Cosne-Cours-sur-Loire,Brudzeń Duży,Nyke,1920.9383612523002
+827,5/22/2022,862,Electronics,827,61.0,Female,Dioknisi,Hưng Nguyên,Hom Dipot,1922.6852816087264
+828,2/25/2023,138,Electronics,828,88.0730280064273,Male,Pieksämäki,,JCPenney,1293.1040936415109
+829,10/17/2022,922,Electronics,829,44.0,Male,Rzhavki,Balky,Seph$ora,1814.734234590462
+830,4/16/2023,1069,Electronics,830,42.0,Male,Cikupa,Rashaant,Target123,2166.495246363867
+831,5/19/2022,1102,Entertainment,831,36.0,Polygender,Pamplona/Iruña,Jimusa’er,Apple,1985.9270666929142
+832,2/21/2023,271,Entertainment,832,51.0,Female,Diez de Octubre,Laem Sing,Adydas,1271.4417208901737
+833,2/24/2023,645,Entertainment,833,52.0,Male,Mutum,Newark,Seph$ora,1468.7310105959227
+834,12/20/2022,1123,Grocery,834,38.0,Male,Danzi,Klippan,Maci's,1888.1797341812253
+835,7/4/2022,177,Grocery,835,51.0,Female,Yenangyaung,Lavras da Mangabeira,Ebay,1234.4542944395864
+836,6/25/2022,961,Clothing,836,81.0,Female,Cheongju-si,Zheleznodorozhnyy,Ulta ASDBeauty,1798.980226744825
+837,10/28/2022,178,Entertainment,837,35.0,Female,Maintirano,Duisburg,Apple,1215.378149041728
+838,4/7/2023,513,Entertainment,838,20.0,Female,Yongtai,Ushuaia,Etseazy,1555.9315797721774
+839,6/2/2022,150,Home Goods,839,75.0,Male,Galesong,Rokycany,Newegg,1118.0022047216312
+840,1/13/2023,439,Clothing,840,87.87699943746522,Male,Norrtälje,,Apple,1300.6403933258753
+841,6/8/2022,842,Home Goods,841,54.0,Female,La Mesa,Sidi Bousber,Maci's,1880.3632006278576
+842,10/30/2022,177,Grocery,842,22.0,Male,Yuyue,Greensboro,Ebay,1277.1688828304013
+843,8/1/2022,510,Grocery,843,87.7698173560628,Female,Malpique,,Etseazy,1407.8858849456092
+844,12/31/2022,945,Clothing,844,66.0,Male,Sumberpitu,Várzea da Palma,Overs12tock,1847.4921432908855
+845,3/25/2023,5,Clothing,845,34.0,Male,Huai’an,Puerto Boyacá,JCPenney,843.4097021385813
+846,3/23/2023,1114,Grocery,846,87.52872079161119,Female,Lakshmīpur,,Ebay,2066.9494042118513
+847,8/25/2022,147,Entertainment,847,30.0,Female,Jinhua,Krasnokholmskiy,Hom Dipot,1156.5498913427077
+848,4/14/2023,1042,Entertainment,848,27.0,Female,Huangshagang,Armação de Búzios,Wayfa$ir,2043.2914728264723
+849,3/8/2023,1044,Clothing,849,30.0,Male,Tubo,Emiliano Zapata,Ebay,1912.7684400057462
+850,3/22/2023,861,Home Goods,850,55.0,Female,Krzeczów,Kinzan,Ulta ASDBeauty,1822.7257420961987
+851,12/23/2022,531,Home Goods,851,67.0,Female,Megati Kelod,Kidričevo,Ebay,1438.3250415402058
+852,8/31/2022,69,Home Goods,852,37.0,Female,Pingfeng,Corticeiro de Baixo,Ebay,1169.4975638061749
+853,8/2/2022,823,Clothing,853,51.0,Female,Businovo,København,Best Buyy,1745.6255189950157
+854,2/2/2023,962,Clothing,854,82.0,Male,Nasilava,Palcamayo,Apple,2072.3734771131285
+855,12/22/2022,1020,Entertainment,855,78.0,Female,Shuangyang,Lobito,Adydas,1899.213307549445
+856,10/9/2022,1032,Electronics,856,29.0,Female,Kobe,Jinhua,Ebay,2136.3492319951665
+857,3/2/2023,1015,Electronics,857,80.0,Genderfluid,Неготино,Celendín,Ebay,1920.3155892135264
+858,7/10/2022,119,Clothing,858,47.0,Female,Wuxiang,Washington,Ebay,1013.6452818711383
+859,5/5/2022,870,Clothing,859,56.0,Male,Lirung,Horodyshche,Ulta ASDBeauty,1926.2837506354465
+860,3/2/2023,948,Home Goods,860,54.0,Male,Nova Viçosa,Kafr Takhārīm,Kostco,1889.9078794315772
+861,7/18/2022,1042,Home Goods,861,22.0,Female,Qitai,Pohonsirih,Ebay,1894.4605811348072
+862,10/16/2022,926,Clothing,862,71.0,Male,Jiadingzhen,Melíki,Seph$ora,1916.2571079613838
+863,7/29/2022,984,Grocery,863,66.0,Female,Horní Jiřetín,Zheshart,Adydas,1955.9165563614474
+864,12/13/2022,126,Entertainment,864,75.0,Female,Zlataritsa,Muchkapskiy,Ebay,1075.07951989159
+865,11/13/2022,118,Electronics,865,36.0,Female,Xianghuaqiao,Shangjiangxu,Target123,1193.9836409076324
+866,1/11/2023,1175,Grocery,866,76.0,Male,Bāsawul,Langkaplancar,Ebay,1981.9408490927642
+867,5/21/2022,1106,Entertainment,867,39.0,Female,San Nicolás de los Arroyos,Erenhot,Newegg,2083.7665477488927
+868,10/4/2022,22,Grocery,868,46.0,Male,Arboleda,Desa Borogojol,Nyke,1025.516164651283
+869,10/10/2022,248,Grocery,869,70.0,Male,Al Qadmūs,Piracanjuba,Ebay,1047.3301778948744
+870,12/21/2022,1075,Entertainment,870,75.0,Female,Novozavidovskiy,Wichian Buri,Nyke,2307.3131718411123
+871,8/19/2022,153,Electronics,871,38.0,Female,Fushan,La Dorada,Ebay,1095.7308977046662
+872,6/27/2022,1085,Grocery,872,21.0,Genderqueer,Gornorechenskiy,Youcheng,Kostco,2111.869900315546
+873,10/5/2022,39,Grocery,873,26.0,Male,Kungur,Choros,Etseazy,1084.1489141507059
+874,7/13/2022,63,Entertainment,874,71.0,Male,Saýat,Rasskazovo,Seph$ora,1138.2859837196124
+875,6/27/2022,29,Home Goods,875,83.0,Genderqueer,Perechyn,Katrineholm,Ulta ASDBeauty,1055.506780387505
+876,11/26/2022,1076,Entertainment,876,30.0,Female,Gonghe,Chengxiang,Hom Dipot,2163.7578707970633
+877,11/15/2022,1014,Home Goods,877,68.0,Female,Ivouani,Khŭjand,Ebay,1969.5867376057108
+878,2/15/2023,1035,Entertainment,878,18.907538819835448,Female,Nagaoka,,Gav,2103.536067762493
+879,7/19/2022,393,Home Goods,879,18.0,Female,L'viv,Caocun,JCPenney,1213.8274647199623
+880,11/15/2022,832,Clothing,880,42.0,Female,Nouna,Yishi,Gav,1782.2842909403994
+881,4/12/2023,195,Electronics,881,25.0,Bigender,Osias,Nsok,Hom Dipot,1109.9048783236226
+882,6/7/2022,257,Grocery,882,53.0,Male,Yamaranguila,Ljusdal,Etseazy,1270.2397005767225
+883,5/24/2022,850,Grocery,883,77.0,Male,Bohus,Wukou,Hom Dipot,2062.1435185085456
+884,5/21/2022,262,Entertainment,884,87.98052288049986,Female,Quetigny,,Ebay,1272.1889523994635
+885,1/5/2023,15,Home Goods,885,34.0,Male,Wilmington,Trbovlje,Nyke,1157.6282770869927
+886,1/19/2023,255,Home Goods,886,87.96917987865336,Genderfluid,Sutton,,Ebay,1434.071790846075
+887,2/5/2023,1165,Entertainment,887,41.0,Male,Oslo,Young,Ebay,2226.9008875995496
+888,7/26/2022,1068,Home Goods,888,39.0,Male,Montilla,Marseille,Newegg,2008.4707069543956
+889,12/3/2022,1021,Clothing,889,19.04563969026905,Male,Pámfylla,,Ebay,1973.5458794784847
+890,10/26/2022,993,Home Goods,890,55.0,Male,Chachagüí,Severomorsk,Etseazy,2012.1329034473538
+891,12/25/2022,36,Home Goods,891,49.0,Agender,Curibaya,Xifengshan,NordstromC,966.5421342816992
+892,10/2/2022,427,Entertainment,892,37.0,Female,Santa Rosa,Cergy-Pontoise,Nyke,1573.633805824708
+893,1/3/2023,1192,Electronics,893,60.0,Male,Hengtanggang,Santa Rita Village,Hom Dipot,2078.460876004422
+894,4/26/2023,262,Electronics,894,58.0,Male,Waterloo,Phanom Phrai,Wayfa$ir,1228.8189720096193
+895,10/6/2022,260,Home Goods,895,42.0,Male,Przelewice,San Pablo,Newegg,1232.5067619348993
+896,2/12/2023,1041,Clothing,896,59.0,Male,Saint John’s,Vale,Etseazy,2084.1473410590725
+897,9/24/2022,856,Electronics,897,67.0,Female,Pantin,Nanqiu,Ebay,1838.4607009021843
+898,1/4/2023,880,Clothing,898,37.0,Male,Montpellier,Kristiansand S,Wayfa$ir,1964.0440270608913
+899,10/4/2022,1042,Home Goods,899,19.11586608419747,Male,Taling,,Best Buyy,1856.2599497002584
+900,8/24/2022,1047,Home Goods,900,60.0,Male,Abadou,Själevad,Etseazy,2064.1034318910115
+901,9/24/2022,368,Home Goods,901,85.0,Female,Santa Elena,Macapo,Seph$ora,1414.9737518781415
+902,11/2/2022,148,Entertainment,902,59.0,Male,Néa Smýrni,Ujmisht,Wayfa$ir,1121.053687452838
+903,2/27/2023,872,Clothing,903,87.93200807192234,Female,Vitória de Santo Antão,,Best Buyy,1927.674173646457
+904,2/20/2023,984,Electronics,904,76.0,Male,Weyburn,Cabanbanan,Ebay,2048.4626124737315
+905,4/17/2023,230,Clothing,905,43.0,Male,Logroño,Bucheon-si,Seph$ora,1100.2333994688968
+906,11/15/2022,867,Entertainment,906,37.0,Male,San Jose,Tacoma,Adydas,1784.4905519582805
+907,5/3/2022,980,Clothing,907,53.0,Female,Beidou,Hushan,Etseazy,1894.3044984297471
+908,1/13/2023,1082,Entertainment,908,24.0,Female,Manosque,Buritizeiro,JCPenney,1919.8871189123238
+909,5/5/2022,870,Entertainment,909,88.24077546985546,Male,Indianapolis,,Ebay,1781.870429410446
+910,4/10/2023,951,Grocery,910,85.0,Genderfluid,Primorskiy,Novosin’kovo,Ebay,2066.8912428507588
+911,4/25/2023,514,Grocery,911,35.0,Non-binary,Carrigaline,Wielka Wieś,Best Buyy,1625.8443547109762
+912,5/17/2022,1137,Entertainment,912,56.0,Male,Ake-Eze,Quiñota,Adydas,2042.0883673509375
+913,6/8/2022,1037,Clothing,913,65.0,Male,Uto,Metsemotlhaba,Ebay,2018.1322693619472
+914,8/10/2022,69,Grocery,914,49.0,Female,Lantang,Laranjeiras,Hom Dipot,1143.5264969718867
+915,1/2/2023,903,Electronics,915,25.0,Male,Fuxi,Lysice,Gav,1882.791630033592
+916,2/5/2023,1047,Home Goods,916,52.0,Male,Nasavrky,Volary,Newegg,2162.3930459470603
+917,7/19/2022,974,Electronics,917,53.0,Male,K’anak’erravan,Nizhniy Tagil,Overs12tock,1890.1688466799533
+918,1/16/2023,895,Entertainment,918,19.148973783562777,Female,Neochóri,,Gav,1841.5872245700052
+919,6/4/2022,965,Entertainment,919,85.0,Female,Odemira,Kindersley,Ulta ASDBeauty,1906.0498868319928
+920,7/24/2022,1117,Clothing,920,74.0,Male,Jimaguayú,Yubileynyy,Target123,2079.5179466092522
+921,6/24/2022,969,Electronics,921,21.0,Male,Dubinino,Vratsa,Adydas,2230.1674596075027
+922,2/23/2023,8,Electronics,922,49.0,Female,Ōtsuki,Berber,Ebay,924.140614493464
+923,10/29/2022,239,Grocery,923,35.0,Female,Yevpatoriya,Wuma,Ebay,1293.6320208256911
+924,5/30/2022,144,Clothing,924,85.0,Male,Kachia,Dante Delgado,Overs12tock,1014.7295000795425
+925,2/16/2023,1095,Electronics,925,46.0,Male,Cereté,Empedrado,Ebay,2002.3729759549788
+926,6/26/2022,92,Home Goods,926,32.0,Female,Basqal,Huangjin,Wayfa$ir,1335.875176355959
+927,5/11/2022,1076,Grocery,927,52.0,Female,Liqiao,Solna,Target123,2177.3374308986185
+928,6/19/2022,234,Home Goods,928,21.0,Male,Lere,Dragomer,Ulta ASDBeauty,1186.763368119177
+929,12/25/2022,1053,Clothing,929,87.53575832421541,Female,Timon,,Ulta ASDBeauty,2072.1309139645705
+930,12/7/2022,892,Grocery,930,36.0,Male,Stará Huť,Yuannan,Best Buyy,1822.512610188306
+931,11/19/2022,939,Clothing,931,49.0,Male,Bangbayang,Nangka,Ebay,1911.9626150653853
+932,12/17/2022,1087,Grocery,932,84.0,Male,Bakau,Dongchuan,Wayfa$ir,2264.5658632893455
+933,5/31/2022,76,Grocery,933,46.0,Female,Štitar,Hats’avan,Wayfa$ir,1075.3657655672064
+934,3/28/2023,1045,Grocery,934,39.0,Agender,Shani,Wunat,Ebay,2000.381167846601
+935,4/29/2022,19,Home Goods,935,61.0,Female,Tabuc Pontevedra,Kawage,Overs12tock,869.8368212392974
+936,4/26/2023,1080,Entertainment,936,76.0,Male,Bukui,Tarouca,Ebay,2221.1858243976176
+937,12/30/2022,886,Electronics,937,76.0,Female,Saint Cloud,Akarakar,Etseazy,2011.311480692818
+938,10/24/2022,198,Home Goods,938,24.0,Female,Daruoyan,Strömsund,Etseazy,1218.9575843832208
+939,11/7/2022,1018,Grocery,939,56.0,Female,Raposeira,Gorno Orizari,Newegg,2015.729661015001
+940,4/11/2023,68,Home Goods,940,43.0,Female,Ivot,Esquipulas,Ebay,1174.0410244694524
+941,6/21/2022,1095,Home Goods,941,51.0,Male,Murun-kuren,Kanoni,Ebay,2215.3968718772066
+942,2/19/2023,177,Home Goods,942,27.0,Male,Chengji,Králův Dvůr,Kostco,1150.8126559850944
+943,9/29/2022,372,Home Goods,943,82.0,Male,Côte-Saint-Luc,Cicapar,Wayfa$ir,1543.984137999631
+944,4/2/2023,563,Entertainment,944,38.0,Genderqueer,Plátanos,Nong Khae,Ulta ASDBeauty,1603.7219382683675
+945,12/9/2022,1047,Entertainment,945,54.0,Male,Laholm,Naka,Target123,1990.85026997329
+946,9/18/2022,481,Entertainment,946,88.10675317464322,Female,Shahrud,,Seph$ora,1516.3684912364474
+947,8/4/2022,19,Electronics,947,82.0,Male,Novoaleksandrovsk,Barreiro do Jaíba,Wayfa$ir,1189.795785940356
+948,11/2/2022,914,Home Goods,948,50.0,Female,Moratuwa,Liski,Ebay,1860.4690146896291
+949,7/29/2022,97,Grocery,949,88.33834500684685,Male,Andong,,Ebay,1196.3953485570626
+950,8/31/2022,807,Electronics,950,87.85787771105556,Female,Antíparos,,Ebay,1931.443782941664
+951,8/17/2022,1356,Home Goods,951,20.0,Male,Lugang,Cértegui,Ulta ASDBeauty,2355.1392020210815
+952,9/14/2022,4,Home Goods,952,74.0,Female,Muquiyauyo,Kosonsoy,Etseazy,948.8389961992814
+953,7/13/2022,218,Home Goods,953,85.0,Genderqueer,Vágia,Natonin,Ebay,1097.2609822347283
+954,4/7/2023,464,Electronics,954,79.0,Male,Nikolayevsk,Belo Blato,Kostco,1402.8048385509048
+955,5/10/2022,1019,Electronics,955,77.0,Male,Peterborough,Krajan Gajihan,Target123,1979.444362474285
+956,5/29/2022,1051,Clothing,956,50.0,Female,Gongchenqiao,Issa,Apple,2079.116698355945
+957,4/13/2023,113,Grocery,957,39.0,Male,Calbuco,Shahbā,JCPenney,1148.5409791681973
+958,8/6/2022,815,Entertainment,958,63.0,Male,Velykyi Bereznyi,Monte Carmelo,Overs12tock,1957.1089021250496
+959,4/21/2023,46,Grocery,959,45.0,Female,Pakel,Añelo,Seph$ora,969.6503098992663
+960,2/13/2023,10,Home Goods,960,41.0,Male,Albany,Tymoshivka,Apple,946.3358273488941
+961,10/8/2022,981,Entertainment,961,18.678423885643145,Male,Chambellan,,Seph$ora,1971.1294483534016
+962,11/26/2022,853,Electronics,962,36.0,Female,Granja,Örebro,JCPenney,1998.0614211974623
+963,2/23/2023,1068,Home Goods,963,30.0,Male,Staronizhestebliyevskaya,Nouaseur,Ebay,2252.0222416656225
+964,10/3/2022,39,Electronics,964,48.0,Female,Savannah,Adamantina,Ebay,1126.507907286507
+965,5/3/2022,202,Home Goods,965,40.0,Male,Phrae,Shatou,Apple,1191.4823022180271
+966,2/28/2023,895,Entertainment,966,18.608722637509047,Male,Gravataí,,Ebay,1855.5992050272794
+967,5/15/2022,995,Clothing,967,75.0,Female,Boju,Lyuban’,Wayfa$ir,1857.6049052094074
+968,12/18/2022,19,Electronics,968,79.0,Female,Shumerlya,Peruíbe,Ebay,977.3149128282347
+969,1/30/2023,1124,Home Goods,969,38.0,Male,Serra de Água,Weizheng,Ebay,2172.9470735330324
+970,3/29/2023,1241,Entertainment,970,25.0,Female,Choros,Rajsko,Ebay,2186.532363625755
+971,5/29/2022,358,Home Goods,971,48.0,Female,Moret-sur-Loing,Yudaikelike,Etseazy,1266.5043019057732
+972,6/18/2022,151,Grocery,972,52.0,Female,Las Palmas,Yong’an,Best Buyy,1136.3598257977553
+973,7/24/2022,1151,Electronics,973,24.0,Female,Sukapura,Ronglong,Gav,2309.3291188729195
+974,3/7/2023,1200,Entertainment,974,40.0,Male,Fuli,Kondinskoye,Newegg,2201.9133970259004
+975,1/2/2023,928,Grocery,975,21.0,Female,Aurora,Lamduan,Ebay,1815.1971491651852
+976,5/1/2022,589,Home Goods,976,87.95637113704984,Female,Klang,,Target123,1498.595578464799
+977,11/20/2022,1088,Home Goods,977,67.0,Male,Gremyachinsk,Ulyanovsk,Ulta ASDBeauty,2136.2475701074586
+978,5/18/2022,119,Electronics,978,72.0,Male,Shuanghe,Jinshan,Gav,1109.8386113766496
+979,2/27/2023,1118,Entertainment,979,78.0,Male,Morelos,Matos da Ranha,Maci's,1956.3407380614344
+980,8/31/2022,32,Electronics,980,64.0,Male,Tianhe,Stockholm,Etseazy,899.4082693299624
+981,2/5/2023,1065,Entertainment,981,61.0,Male,Ketapang,Hallstahammar,Ebay,2178.420811249087
+982,6/11/2022,294,Grocery,982,31.0,Genderqueer,Vittoriosa,Salwá,Newegg,1271.571627760542
+983,3/3/2023,976,Electronics,983,53.0,Male,Labao,Sangiyn Dalay,Ebay,1851.7155313462188
+984,3/26/2023,284,Entertainment,984,20.0,Female,Tiannan,Urasqui,Newegg,1172.0282710699867
+985,7/27/2022,16,Entertainment,985,28.0,Male,Nishinoomote,Nowy Korczyn,Gav,1126.4757641240806
+986,11/6/2022,170,Grocery,986,32.0,Polygender,Manjiang,Tlogosari,Ebay,1277.8429260789396
+987,1/16/2023,472,Clothing,987,53.0,Female,Xifengshan,Sertânia,Ebay,1427.449176418656
+988,3/18/2023,20,Home Goods,988,56.0,Female,Ash Shajarah,Bokaa,Maci's,958.709815157502
+989,1/11/2023,853,Entertainment,989,28.0,Male,Örnsköldsvik,Krasyliv,Wayfa$ir,1782.3700307985887
+990,3/3/2023,1060,Entertainment,990,54.0,Female,Jinbi,Haliut,Best Buyy,2323.927529104122
+991,11/6/2022,887,Electronics,991,82.0,Male,Kansas City,Benjamin Constant,Etseazy,2119.5236708356924
+992,6/29/2022,875,Clothing,992,30.0,Female,Anse à Galets,Gueltat Zemmour,Target123,1686.3732758627737
+993,5/12/2022,172,Home Goods,993,48.0,Male,Liushun,Grästorp,Seph$ora,1071.25195219108
+994,5/7/2022,885,Electronics,994,30.0,Female,Kamālia,Văn Điển,Adydas,1777.3765788866465
+995,7/31/2022,910,Grocery,995,87.63136229814147,Female,Trablice,,Ebay,1984.357761217951
+996,10/31/2022,128,Home Goods,996,32.0,Genderfluid,Yamaga,Štitar,Ebay,1180.8857581636685
+997,12/28/2022,943,Entertainment,997,67.0,Male,Linköping,Aībak,Adydas,1865.6430812077544
+998,10/11/2022,172,Entertainment,998,82.0,Female,Buynichy,Tulay na Lupa,Gav,1215.8437453105514
+999,7/15/2022,986,Grocery,999,58.0,Male,Fontinha,Taoudenni,Maci's,2152.11593443091
+1000,4/25/2023,1140,Electronics,1000,64.0,Male,Vihti,Kafr az Zayyāt,Overs12tock,2177.853416514241
